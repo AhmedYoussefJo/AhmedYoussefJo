@@ -1,3 +1,5 @@
+![Ahmed Yousef](https://your-image-link.com/profile.jpg)
+
 # 👋 Hi, I'm Ahmed Yousef
 
 🎓 3rd Year IT Student | 📊 Learning Data Analysis | 🧠 Practicing Problem Solving
@@ -14,9 +16,9 @@ Also, I’m improving my **problem-solving skills** step by step by solving codi
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python, SQL (basic), HTML/CSS
-- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn
-- **Current Learning:** Data visualization, Exploratory Data Analysis (EDA), Git & GitHub
+- **Languages:** Python, SQL (basic), HTML/CSS  
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Current Learning:** Data visualization, Exploratory Data Analysis (EDA), Git & GitHub  
 - **Practicing:** Algorithms & problem solving (via LeetCode, Codeforces)
 
 ---
@@ -27,7 +29,7 @@ Also, I’m improving my **problem-solving skills** step by step by solving codi
 |------|-------------|-------|
 | 📈 **Students Exam Analysis** | Practicing EDA and grouping/aggregating student performance | Pandas, Matplotlib |
 | 💡 **Sales Insights** | Groupby, pivot tables, customer segmentation | Pandas, Python |
-| 🛡️ **Truck Driver Safety (Capstone)** | AI-based driver alertness system + dashboard | Python, Flask, basic ML (under guidance)
+| 🛡️ **Truck Driver Safety (Capstone)** | AI-based driver alertness system + dashboard | Python, Flask, basic ML (under guidance) |
 
 ---
 

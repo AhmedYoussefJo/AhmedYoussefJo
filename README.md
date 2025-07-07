@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://github.com/AhmedYoussefJo/assets/blob/main/me.jpg" width="300" height="300" style="border-radius: 50% !important;">
-</p>
-
 # 👋 Hi, I'm Ahmed Yousef
 
 🎓 3rd Year IT Student | 📊 Learning Data Analysis | 🧠 Practicing Problem Solving

@@ -1,4 +1,6 @@
-![Ahmed Yousef](https://github.com/AhmedYoussefJo/assets/blob/main/me.jpg)
+<p align="center">
+  <img src="https://github.com/AhmedYoussefJo/assets/blob/main/me.jpg" width="300" height="300" style="border-radius: 50%;">
+</p>
 
 # 👋 Hi, I'm Ahmed Yousef
 

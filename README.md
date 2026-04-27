@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Ahmed Yousef  
 
-🎓 3rd Year IT Student | 📊 Data Analyst | 🧠 Practicing Problem Solving  
+🎓 📊 Data Analyst | 🧠 Practicing Problem Solving  
 
 ---
 
 ## 🚀 About Me  
 
-I’m a **Data Analyst** with strong skills in **Python, Pandas, SQL, and Excel**.  
+I’m a **Data Analyst** with strong skills in **Python, Pandas, SQL, Powe BI and Excel**.  
 I specialize in exploring, cleaning, and analyzing datasets to extract meaningful insights.  
 I also apply **problem-solving and algorithmic thinking** to tackle data challenges and coding problems.  
 

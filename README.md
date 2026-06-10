@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 
-I’m a **Data Analyst** with strong skills in **Python, Pandas, SQL, Powe BI and Excel**.  
+I’m a **Data Analyst** with strong skills in **Python, Pandas, SQL, Power BI and Excel**.  
 I specialize in exploring, cleaning, and analyzing datasets to extract meaningful insights.  
 I also apply **problem-solving and algorithmic thinking** to tackle data challenges and coding problems.  
 
@@ -16,8 +16,8 @@ I also apply **problem-solving and algorithmic thinking** to tackle data challen
 
 - **Languages:** Python, SQL (basic), Java, HTML/CSS/JS  
 - **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Requests, Regular Expressions (re), Excel  
-- **Skills:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Web Scraping, Excel Reporting  
-- **Current Learning:** Data Visualization, Git & GitHub  
+- **Skills:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Web Scraping, Excel Reporting, Git & GitHub, Data Visualization
+- **Current Learning:** Advanced Data Analysis and ML
 - **Practicing:** Algorithms & Problem Solving (via LeetCode, Codeforces)  
 
 ---
@@ -26,7 +26,7 @@ I also apply **problem-solving and algorithmic thinking** to tackle data challen
 
 | Name | Description | Tools |
 |------|-------------|-------|
-| 📈 **Students Exam Analysis** | Practicing EDA and grouping/aggregating student performance | Pandas, Matplotlib |
+| 📈 **Students Exam Analysis** | Practicing EDA and grouping/aggregating student performance | Pandas, Matplotlib, Power BI |
 | 💡 **Sales Insights** | Groupby, pivot tables, customer segmentation | Pandas, Excel, Python |
 | 🌍 **Countries by GDP Analysis** | Web scraping GDP data + descriptive statistics & visualizations | Pandas, NumPy, Requests, re, Matplotlib, Seaborn, Plotly |
 | 🛡️ **Truck Driver Safety (Capstone)** | AI-based driver alertness system + dashboard | Python, Flask, basic ML (under guidance) |

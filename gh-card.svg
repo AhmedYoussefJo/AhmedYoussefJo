@@ -1,0 +1,334 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <style>
+      .term-title { font-family: 'Courier New', monospace; font-size: 14px; fill: #4ade80; font-weight: bold; }
+      .status-text { font-family: 'Courier New', monospace; font-size: 11px; font-weight: bold; fill: #22c55e; }
+      .section-label { font-family: 'Courier New', monospace; font-size: 13px; font-weight: bold; fill: #4ade80; letter-spacing: 1.5px; }
+      .prompt-head { font-family: 'Courier New', monospace; font-size: 15px; font-weight: bold; fill: #4ade80; }
+      .lbl { font-family: 'Courier New', monospace; font-size: 13px; fill: #86efac; }
+      .val { font-family: 'Courier New', monospace; font-size: 13px; fill: #f0fdf4; }
+      .val-bold { font-family: 'Courier New', monospace; font-size: 13px; fill: #ffffff; font-weight: bold; }
+      .val-highlight { font-family: 'Courier New', monospace; font-size: 13px; fill: #4ade80; font-weight: bold; }
+      .footer-quote { font-family: 'Courier New', monospace; font-size: 11px; font-weight: bold; fill: #22c55e; letter-spacing: 1px; }
+      
+      /* Dynamic Navigation Tabs Styling */
+      .nav-tab { cursor: pointer; }
+      .tab-bg { fill: #0d2818; stroke: #166534; stroke-width: 1.5; transition: all 0.2s; }
+      .tab-text { font-family: 'Courier New', monospace; font-size: 12px; font-weight: bold; fill: #86efac; }
+      .nav-tab:hover .tab-bg { fill: #14532d; stroke: #22c55e; }
+      .nav-tab:hover .tab-text { fill: #ffffff; }
+
+      /* Tab Switching Engine */
+      .page-content { display: none; }
+      #tab-about:checked ~ #page-about,
+      #tab-skills:checked ~ #page-skills,
+      #tab-projects:checked ~ #page-projects,
+      #tab-experience:checked ~ #page-experience,
+      #tab-certs:checked ~ #page-certs,
+      #tab-contact:checked ~ #page-contact { display: block; }
+
+      /* Active Tab Highlighting */
+      #tab-about:checked ~ g label[for="tab-about"] .tab-bg,
+      #tab-skills:checked ~ g label[for="tab-skills"] .tab-bg,
+      #tab-projects:checked ~ g label[for="tab-projects"] .tab-bg,
+      #tab-experience:checked ~ g label[for="tab-experience"] .tab-bg,
+      #tab-certs:checked ~ g label[for="tab-certs"] .tab-bg,
+      #tab-contact:checked ~ g label[for="tab-contact"] .tab-bg { fill: #15803d; stroke: #4ade80; stroke-width: 2; }
+
+      #tab-about:checked ~ g label[for="tab-about"] .tab-text,
+      #tab-skills:checked ~ g label[for="tab-skills"] .tab-text,
+      #tab-projects:checked ~ g label[for="tab-projects"] .tab-text,
+      #tab-experience:checked ~ g label[for="tab-experience"] .tab-text,
+      #tab-certs:checked ~ g label[for="tab-certs"] .tab-text,
+      #tab-contact:checked ~ g label[for="tab-contact"] .tab-text { fill: #ffffff; font-weight: bold; }
+    </style>
+
+    <clipPath id="portrait-clip">
+      <rect x="35" y="70" width="160" height="180" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <!-- Interactive Radio Control Inputs -->
+  <foreignObject width="0" height="0">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml">
+      <input type="radio" id="tab-about" name="terminal-nav-fit" checked="checked"/>
+      <input type="radio" id="tab-skills" name="terminal-nav-fit"/>
+      <input type="radio" id="tab-projects" name="terminal-nav-fit"/>
+      <input type="radio" id="tab-experience" name="terminal-nav-fit"/>
+      <input type="radio" id="tab-certs" name="terminal-nav-fit"/>
+      <input type="radio" id="tab-contact" name="terminal-nav-fit"/>
+    </xhtml:div>
+  </foreignObject>
+
+  <!-- Main Terminal Window Frame -->
+  <rect width="800" height="1200" rx="16" fill="#05140c" stroke="#166534" stroke-width="3"/>
+  
+  <!-- Header Bar -->
+  <path d="M0 16C0 7.16344 7.16344 0 16 0H784C792.837 0 800 7.16344 800 16V45H0V16Z" fill="#0a1f14" stroke="#166534" stroke-width="1"/>
+  <circle cx="25" cy="22" r="6" fill="#ef4444"/>
+  <circle cx="45" cy="22" r="6" fill="#eab308"/>
+  <circle cx="65" cy="22" r="6" fill="#22c55e"/>
+  <text x="400" y="27" class="term-title" text-anchor="middle">ahmedyousef@ml-engineer ~ % ./profile --full-cv</text>
+
+  <!-- Profile Card Summary Box -->
+  <rect x="20" y="58" width="760" height="205" rx="10" fill="#0a1f14" stroke="#166534"/>
+  
+  <!-- User Image -->
+  <image href="https://raw.githubusercontent.com/AhmedYoussefJo/AhmedYoussefJo/main/me.png" x="35" y="70" width="160" height="180" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait-clip)"/>
+  <rect x="35" y="70" width="160" height="180" rx="8" fill="none" stroke="#22c55e" stroke-width="1.5"/>
+
+  <!-- Info Block Beside Image -->
+  <text x="215" y="92" class="lbl">NAME:</text>
+  <text x="285" y="92" class="val-bold">Ahmed Yousef Bakry Gouda</text>
+  
+  <text x="215" y="118" class="lbl">ROLE:</text>
+  <text x="285" y="118" class="val-highlight">Machine Learning &amp; AI Engineer</text>
+  
+  <text x="215" y="144" class="lbl">DEGREE:</text>
+  <text x="285" y="144" class="val">B.Tech in IT (Software Engineering Track)</text>
+
+  <text x="215" y="170" class="lbl">UNI / GPA:</text>
+  <text x="285" y="170" class="val-bold">Delta Technological University (DTU '27) | GPA: 3.7 / 4.0</text>
+
+  <text x="215" y="196" class="lbl">LOCATION:</text>
+  <text x="285" y="196" class="val">Cairo, Egypt</text>
+
+  <text x="215" y="222" class="lbl">DEPI TRACK:</text>
+  <text x="285" y="222" class="val-highlight">Microsoft Machine Learning Engineer Track</text>
+
+  <text x="215" y="248" class="lbl">FOCUS:</text>
+  <text x="285" y="248" class="val">End-to-End ML Pipelines &amp; MLOps Deployment</text>
+
+  <!-- Responsive Touch Navigation Grid (2 Rows x 3 Cols for Universal Fit) -->
+  <g transform="translate(20, 275)">
+    <!-- Row 1 -->
+    <label for="tab-about" class="nav-tab">
+      <g>
+        <rect x="0" y="0" width="246" height="38" rx="6" class="tab-bg"/>
+        <text x="123" y="24" class="tab-text" text-anchor="middle">1. Overview &amp; Education</text>
+      </g>
+    </label>
+    
+    <label for="tab-skills" class="nav-tab">
+      <g transform="translate(257, 0)">
+        <rect x="0" y="0" width="246" height="38" rx="6" class="tab-bg"/>
+        <text x="123" y="24" class="tab-text" text-anchor="middle">2. Skills &amp; AI Stack</text>
+      </g>
+    </label>
+
+    <label for="tab-projects" class="nav-tab">
+      <g transform="translate(514, 0)">
+        <rect x="0" y="0" width="246" height="38" rx="6" class="tab-bg"/>
+        <text x="123" y="24" class="tab-text" text-anchor="middle">3. Featured Projects</text>
+      </g>
+    </label>
+
+    <!-- Row 2 -->
+    <label for="tab-experience" class="nav-tab">
+      <g transform="translate(0, 46)">
+        <rect x="0" y="0" width="246" height="38" rx="6" class="tab-bg"/>
+        <text x="123" y="24" class="tab-text" text-anchor="middle">4. DEPI ML Training</text>
+      </g>
+    </label>
+
+    <label for="tab-certs" class="nav-tab">
+      <g transform="translate(257, 46)">
+        <rect x="0" y="0" width="246" height="38" rx="6" class="tab-bg"/>
+        <text x="123" y="24" class="tab-text" text-anchor="middle">5. Certifications (8)</text>
+      </g>
+    </label>
+
+    <label for="tab-contact" class="nav-tab">
+      <g transform="translate(514, 46)">
+        <rect x="0" y="0" width="246" height="38" rx="6" class="tab-bg"/>
+        <text x="123" y="24" class="tab-text" text-anchor="middle">6. Contact &amp; Links</text>
+      </g>
+    </label>
+  </g>
+
+  <!-- Content Box Container -->
+  <rect x="20" y="370" width="760" height="775" rx="10" fill="#0a1f14" stroke="#166534"/>
+
+  <!-- ================= PAGE 1: OVERVIEW ================= -->
+  <g id="page-about" class="page-content" transform="translate(40, 395)">
+    <text x="0" y="20" class="prompt-head">ahmedyousef@ml-engineer:~$ cat summary.txt</text>
+    <text x="0" y="55" class="val">Machine Learning Engineer with a solid foundation in Python, statistics, and</text>
+    <text x="0" y="80" class="val">the end-to-end ML lifecycle (data preprocessing, exploratory analysis, model</text>
+    <text x="0" y="105" class="val">development, deep learning, and MLOps). Builds on strong data analytics</text>
+    <text x="0" y="130" class="val">experience (SQL, Power BI, Advanced Excel) to translate raw data into</text>
+    <text x="0" y="155" class="val">actionable business insights and intelligent deployed solutions.</text>
+
+    <line x1="0" y1="185" x2="720" y2="185" stroke="#166534"/>
+    <text x="0" y="215" class="section-label">[ EDUCATION ]</text>
+
+    <text x="0" y="245" class="lbl">Degree Program:</text>
+    <text x="160" y="245" class="val-bold">Bachelor of Technology in Information Technology</text>
+    <text x="160" y="270" class="val">Delta Technological University (DTU) - Software Engineering Track</text>
+
+    <text x="0" y="305" class="lbl">Timeline &amp; GPA:</text>
+    <text x="160" y="305" class="val">Expected Graduation 2027 | Current GPA: 3.7 / 4.0</text>
+
+    <text x="0" y="340" class="lbl">Core Coursework:</text>
+    <text x="160" y="340" class="val">• Data Structures &amp; Algorithms, SQL Databases &amp; Relational Design</text>
+    <text x="160" y="365" class="val">• Object-Oriented Programming (Java, C++), Web Development Basics</text>
+    <text x="160" y="390" class="val">• Operating Systems, Computer Networks, IoT Fundamentals</text>
+
+    <line x1="0" y1="425" x2="720" y2="425" stroke="#166534"/>
+    <text x="0" y="455" class="section-label">[ COMPETITIVE PROGRAMMING &amp; COMMUNITY ]</text>
+    <text x="0" y="485" class="val-highlight">• ECPC Contributor (Egyptian Collegiate Programming Contest - 2023)</text>
+    <text x="20" y="510" class="val">Strengthened complex algorithmic thinking, memory management, and speed.</text>
+    
+    <text x="0" y="545" class="val-highlight">• Data Analysis Specialist &amp; Self-Led Researcher</text>
+    <text x="20" y="570" class="val">Completed intensive practical paths across Python, SQL, and Data Science stacks.</text>
+  </g>
+
+  <!-- ================= PAGE 2: SKILLS ================= -->
+  <g id="page-skills" class="page-content" transform="translate(40, 395)">
+    <text x="0" y="20" class="prompt-head">ahmedyousef@ml-engineer:~$ ./list_skills.sh</text>
+
+    <text x="0" y="60" class="section-label">▸ MACHINE LEARNING &amp; AI</text>
+    <text x="20" y="90" class="val">• Classical ML Algorithms &amp; Evaluation Metrics</text>
+    <text x="20" y="115" class="val">• Deep Learning Networks &amp; Neural Architecture</text>
+    <text x="20" y="140" class="val">• Natural Language Processing (NLP) with Attention Models</text>
+    <text x="20" y="165" class="val">• Computer Vision &amp; Transfer Learning Architectures</text>
+    <text x="20" y="190" class="val">• Prompt Engineering, Fine-tuning &amp; Feature Engineering</text>
+
+    <text x="0" y="230" class="section-label">▸ CLOUD &amp; MLOPS TOOLCHAIN</text>
+    <text x="20" y="260" class="val">• Azure AI Fundamentals &amp; Azure AI Engineer Associate</text>
+    <text x="20" y="285" class="val">• MLOps Pipelines &amp; Model Lifecycle Management</text>
+    <text x="20" y="310" class="val">• Model Experimentation &amp; Tracking via MLflow</text>
+    <text x="20" y="335" class="val">• Hugging Face Transformers &amp; Model Hub Integration</text>
+
+    <text x="0" y="375" class="section-label">▸ PROGRAMMING &amp; MATHEMATICAL FOUNDATIONS</text>
+    <text x="20" y="405" class="val">• Languages: Python (Pandas, NumPy, Scikit-Learn), Java, C/C++, PHP, JS</text>
+    <text x="20" y="430" class="val">• Applied Math: Inferential Statistics, Probability Theory, Linear Algebra</text>
+
+    <text x="0" y="470" class="section-label">▸ DATA ANALYSIS, VISUALIZATION &amp; SCRAPING</text>
+    <text x="20" y="500" class="val">• Data Cleaning, EDA, Matplotlib, Seaborn, Plotly Interactive Maps</text>
+    <text x="20" y="525" class="val">• Business Intelligence: Power BI Dashboards, DAX, Advanced Excel</text>
+    <text x="20" y="550" class="val">• Databases: SQL (MySQL, SQL Server), Relational Modeling, Git/GitHub</text>
+    <text x="20" y="575" class="val">• Web Scraping: Automated Extraction using Beautiful Soup &amp; REST APIs</text>
+  </g>
+
+  <!-- ================= PAGE 3: PROJECTS ================= -->
+  <g id="page-projects" class="page-content" transform="translate(40, 395)">
+    <text x="0" y="20" class="prompt-head">ahmedyousef@ml-engineer:~$ ls -la ./featured_projects</text>
+
+    <text x="0" y="60" class="val-bold">1. E-Commerce Sales Performance Dashboard</text>
+    <text x="380" y="60" class="lbl">[ Power BI, SQL ]</text>
+    <text x="20" y="85" class="val">• Analyzed 99K+ transaction orders generating $15.84M in total revenue.</text>
+    <text x="20" y="110" class="val">• Modeled $160.58 average order value &amp; 97% delivery success rate via SQL.</text>
+
+    <text x="0" y="150" class="val-bold">2. Airbnb NYC Listings EDA &amp; Geospatial Analysis</text>
+    <text x="410" y="150" class="lbl">[ Python, Seaborn, Folium ]</text>
+    <text x="20" y="175" class="val">• Processed 48,000 listings, applied IQR outlier filtering &amp; log transformation.</text>
+    <text x="20" y="200" class="val">• Built interactive geospatial Folium heatmaps to map urban price density.</text>
+
+    <text x="0" y="240" class="val-bold">3. Global Video Games Sales Historical Analysis</text>
+    <text x="420" y="240" class="lbl">[ Python, Pandas, Matplotlib ]</text>
+    <text x="20" y="265" class="val">• Cleaned multi-decade global game dataset &amp; engineered regional features.</text>
+    <text x="20" y="290" class="val">• Delivered market trend insights via correlation heatmaps &amp; publisher plots.</text>
+
+    <text x="0" y="330" class="val-bold">4. Web Scraping &amp; Global GDP Economic Analysis</text>
+    <text x="430" y="330" class="lbl">[ Python, Beautiful Soup ]</text>
+    <text x="20" y="355" class="val">• Developed automated web scraper extracting GDP metrics for 220+ countries.</text>
+    <text x="20" y="380" class="val">• Preprocessed raw HTML tables into clean structured Pandas DataFrames.</text>
+
+    <text x="0" y="420" class="val-bold">5. Smart Traffic Accidents Statistical Analysis</text>
+    <text x="410" y="420" class="lbl">[ Python, Pandas, Seaborn ]</text>
+    <text x="20" y="445" class="val">• Engineered time-based features to analyze accident patterns vs weather.</text>
+    <text x="20" y="470" class="val">• Extracted key risk factors aiding predictive urban safety modeling.</text>
+  </g>
+
+  <!-- ================= PAGE 4: DEPI TRAINING ================= -->
+  <g id="page-experience" class="page-content" transform="translate(40, 395)">
+    <text x="0" y="20" class="prompt-head">ahmedyousef@ml-engineer:~$ cat depi_training.log</text>
+
+    <rect x="0" y="45" width="720" height="580" rx="8" fill="#0d2818" stroke="#166534"/>
+    
+    <text x="20" y="80" class="val-bold">AI &amp; Data Science Track - Microsoft Machine Learning Engineer</text>
+    <text x="20" y="105" class="val-highlight">Digital Egypt Pioneers Initiative (DEPI) Intensive Program</text>
+
+    <text x="20" y="145" class="lbl">Complete Curriculum &amp; Hands-On Modules Covered:</text>
+    <text x="30" y="175" class="val">• Prompt Engineering &amp; Generative AI Fundamentals</text>
+    <text x="30" y="205" class="val">• Mathematics for Machine Learning (Inferential Statistics &amp; Linear Algebra)</text>
+    <text x="30" y="235" class="val">• Python for Data Science, Artificial Intelligence &amp; Software Development</text>
+    <text x="30" y="265" class="val">• Advanced Data Preprocessing, Data Cleaning &amp; Exploratory Data Analysis</text>
+    <text x="30" y="295" class="val">• Classical Machine Learning Algorithms &amp; Rigorous Model Evaluation</text>
+    <text x="30" y="325" class="val">• Deep Learning Networks &amp; Neural Network Architectures</text>
+    <text x="30" y="355" class="val">• Natural Language Processing (NLP) with Attention Models</text>
+    <text x="30" y="385" class="val">• Computer Vision &amp; Transfer Learning Architectures</text>
+    <text x="30" y="415" class="val">• Azure AI Fundamentals &amp; Azure AI Engineer Associate Curriculum</text>
+    <text x="30" y="445" class="val">• MLOps Tooling: Experiment Tracking with MLflow &amp; Hugging Face</text>
+    <text x="30" y="475" class="val">• End-to-End Practical Capstone ML Project Deployment</text>
+
+    <text x="20" y="525" class="status-text">[ DEPI TRACK COMPLETION: PREPARING INDUSTRY-READY ML MODELS ]</text>
+  </g>
+
+  <!-- ================= PAGE 5: CERTIFICATIONS ================= -->
+  <g id="page-certs" class="page-content" transform="translate(40, 395)">
+    <text x="0" y="20" class="prompt-head">ahmedyousef@ml-engineer:~$ ./verify_all_certs.py</text>
+
+    <text x="0" y="60" class="val-bold">1. Data Analysis Engineering Diploma</text>
+    <text x="380" y="60" class="lbl">| MEC Academy (2026)</text>
+
+    <text x="0" y="100" class="val-bold">2. Data Analysis for Freelancing Track</text>
+    <text x="380" y="100" class="lbl">| NTI - National Telecommunication Inst. (2026)</text>
+    <text x="20" y="125" class="val">Mastered Python, SQL, Power BI &amp; Data Warehousing techniques.</text>
+
+    <text x="0" y="165" class="val-bold">3. Problem Solving (Basic) Skill Certification</text>
+    <text x="420" y="165" class="lbl">| HackerRank (2026)</text>
+
+    <text x="0" y="205" class="val-bold">4. GitHub Foundations Certification</text>
+    <text x="350" y="205" class="lbl">| DataCamp (2026)</text>
+
+    <text x="0" y="245" class="val-bold">5. Python (Basic) Skill Certification</text>
+    <text x="360" y="245" class="lbl">| HackerRank (2025)</text>
+
+    <text x="0" y="285" class="val-bold">6. Data Manipulation with pandas</text>
+    <text x="330" y="285" class="lbl">| DataCamp (2025)</text>
+
+    <text x="0" y="325" class="val-bold">7. Statistics Foundations 1: The Basics</text>
+    <text x="370" y="325" class="lbl">| LinkedIn Learning (2025)</text>
+
+    <text x="0" y="365" class="val-bold">8. Introduction to Data Science (PMI Approved)</text>
+    <text x="420" y="365" class="lbl">| LinkedIn Learning (2025)</text>
+  </g>
+
+  <!-- ================= PAGE 6: CONTACT ================= -->
+  <g id="page-contact" class="page-content" transform="translate(40, 395)">
+    <text x="0" y="20" class="prompt-head">ahmedyousef@ml-engineer:~$ ./ping_developer.sh</text>
+
+    <rect x="0" y="55" width="720" height="520" rx="8" fill="#0d2818" stroke="#166534"/>
+
+    <text x="30" y="105" class="lbl">PRIMARY EMAIL:</text>
+    <text x="180" y="105" class="val-bold">ahmedyousefbakrygouda@gmail.com</text>
+
+    <text x="30" y="155" class="lbl">PHONE / WHATSAPP:</text>
+    <text x="180" y="155" class="val-bold">+20 1090319508</text>
+
+    <text x="30" y="205" class="lbl">CURRENT LOCATION:</text>
+    <text x="180" y="205" class="val">Cairo, Egypt</text>
+
+    <line x1="30" y1="245" x2="690" y2="245" stroke="#166534"/>
+
+    <text x="30" y="285" class="section-label">ONLINE PROFILES &amp; PROFESSIONAL PORTFOLIO</text>
+
+    <text x="30" y="325" class="lbl">LinkedIn Profile:</text>
+    <text x="180" y="325" class="val-highlight">linkedin.com/in/ahmedyoussefjo</text>
+
+    <text x="30" y="375" class="lbl">GitHub Repository:</text>
+    <text x="180" y="375" class="val-highlight">github.com/AhmedYoussefJo</text>
+
+    <text x="30" y="425" class="lbl">Portfolio Status:</text>
+    <text x="180" y="425" class="val-bold">Ahmed Yousef Bakry Personal Portfolio</text>
+
+    <text x="30" y="490" class="status-text">[ STATUS: OPEN FOR ML, AI &amp; DATA SCIENCE ROLES ]</text>
+  </g>
+
+  <!-- Terminal Bottom Footer Bar -->
+  <rect x="20" y="1155" width="760" height="32" rx="6" fill="#0a1f14" stroke="#166534"/>
+  <text x="400" y="1176" class="footer-quote" text-anchor="middle">
+    FROM DATA PIPELINES TO END-TO-END ML MODELS &amp; MLOPS DEPLOYMENT
+  </text>
+</svg>

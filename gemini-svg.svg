@@ -30,6 +30,7 @@
   <text x="844" y="25" class="status-text" text-anchor="middle">BUILDING</text>
 
   <!-- Left Frame: PORTRAIT -->
+ <!-- Left Frame: PORTRAIT -->
   <rect x="20" y="60" width="380" height="400" rx="8" fill="#161b22" stroke="#30363d"/>
   <text x="35" y="81" class="section-label">PORTRAIT / AHMED</text>
   <line x1="20" y1="90" x2="400" y2="90" stroke="#30363d"/>

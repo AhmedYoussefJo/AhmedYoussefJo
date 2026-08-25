@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Terminal Dashboard SVG Widget -->
-  <img src="./gh-card.svg" alt="Ahmed Yousef Terminal Profile" width="100%">
+  <img src="./gh-card2.svg" alt="Ahmed Yousef Terminal Profile" width="100%">
 
   <br/><br/>
 

@@ -152,7 +152,7 @@ Analyzed temporal, location, weather, and traffic patterns associated with accid
 **Problem Solving · Algorithms · Competitive Programming**
 
 <a href="https://leetcode.com/u/ahmedjoo2003/">LeetCode</a> · <a href="https://codeforces.com/profile/Ahmed_jo2003">Codeforces</a> ·
-ECPC Contributor (2023)
+ECPC Contributor (2023) & (2026)
 
 ---
 

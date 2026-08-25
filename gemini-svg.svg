@@ -35,7 +35,7 @@
   <line x1="20" y1="90" x2="400" y2="90" stroke="#30363d"/>
   
   <!-- Embedded Image -->
-  <image href="sepQk (2)_2.jpg" x="25" y="95" width="370" height="355" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait-clip)"/>
+  <image href="./me.svg" x="25" y="95" width="370" height="355" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait-clip)"/>
 
   <!-- Right Frame: PROFILE -->
   <rect x="420" y="60" width="460" height="400" rx="8" fill="#161b22" stroke="#30363d"/>

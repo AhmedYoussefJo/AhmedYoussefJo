@@ -5,81 +5,163 @@
 
   <br/><br/>
 
-  # 👋 Hi, I'm Ahmed Yousef Bakry
+ # Ahmed Yousef Bakry
 
-**Machine Learning Engineer** | **Data Analyst**  
-*Building End-to-End ML Pipelines & Translating Data into Business Intelligence*
+### Machine Learning Engineer · Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-yousef-273050350/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E69?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmedyousefbakrygouda@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ahmedyousef2003)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedyousefbakrygouda@gmail.com)
+<p>
+  Building data-driven solutions — from raw data and analysis to machine learning workflows.
+</p>
 
----
+<p>
+  <a href="https://www.linkedin.com/in/ahmed-yousef-273050350/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.kaggle.com/ahmedyousef2003">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="mailto:ahmedyousefbakrygouda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-### 🚀 About Me
-I am a **Machine Learning Engineer** and **Data Analyst** with a strong foundation in Python, applied statistics, and the end-to-end ML lifecycle—from data preprocessing and exploratory analysis to model deployment, deep learning, and MLOps.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=&fontSize=0&animation=fadeIn"/>
 
-- 🎓 Currently pursuing a **B.Tech in Information Technology (Software Track)** at *Delta Technological University* (Expected 2027 | GPA: 3.7/4.0).
-- 💡 Specializing in translating raw data into actionable insights and scalable ML models using Azure AI, MLOps tooling (MLflow, Hugging Face), Computer Vision, and NLP.
-- 🏆 Active competitive programmer with a passion for algorithmic problem solving.
+## About
 
----
+Machine Learning Engineer with a foundation in **Python, statistics, data analysis, and the end-to-end ML lifecycle**.
 
-### 🛠️ Technical Skills
+Currently pursuing a **B.Tech in Information Technology (Software Track)** at Delta Technological University, with hands-on experience in analytics projects, data collection, preprocessing, visualization, and machine learning training.
 
-- **Machine Learning & AI:** Machine Learning Techniques, Deep Learning, NLP (Attention Models), Computer Vision & Transfer Learning, Prompt Engineering, Feature Engineering
-- **Cloud & MLOps:** Azure AI Fundamentals, Azure AI Engineer Associate, MLOps, MLflow, Hugging Face
-- **Data Analysis & Visualization:** EDA, Data Preprocessing, Matplotlib, Seaborn, Plotly, Geospatial Analysis (Folium), Power BI, Advanced Excel
-- **Programming & Math:** Python (Pandas, NumPy), Java, C/C++, PHP, JavaScript, Statistics & Linear Algebra
-- **Databases & Data Scraping:** SQL (MySQL, SQL Server), Relational Database Design, Web Scraping (Beautiful Soup), REST APIs
-- **Tools & Version Control:** Git, GitHub, Jupyter Notebooks
-
----
-
-### 📊 Featured Projects
-
-#### 🤖 Machine Learning & Analytics
-
-**Smart Traffic & Statistical Analysis** — *Python, Pandas, Matplotlib, Seaborn*
-- Cleaned traffic incident datasets and engineered time-based features from timestamps to evaluate accident frequency by location, weather, and time.
-- Uncovered high-risk conditions and key spatial-temporal patterns to support urban planning and safety decisions.
-
-**Airbnb NYC Listings Price & EDA Analysis** — *Python, Pandas, NumPy, Seaborn, Folium*
-- Executed exploratory data analysis on ~48,000 NYC listings to identify price drivers.
-- Conducted outlier detection (IQR) and feature engineering, applying log transformations to normalize right-skewed pricing distributions.
-- Built an interactive **Folium heatmap** to visualize pricing intensity and spatial density across boroughs.
-
-#### 📈 Business Intelligence & Web Data
-
-**E-Commerce Sales Dashboard** — *Power BI, SQL*
-- Built an interactive dashboard analyzing **99K orders** and **$15.84M** in total revenue.
-- Queried relational databases via SQL to analyze KPIs: $160.58 Average Order Value, 12.09 avg delivery days, and a 97% delivery success rate.
-
-**Global Video Games Sales Analysis** — *Python, Pandas, Matplotlib, Seaborn*
-- Preprocessed historical global video game sales to compare regional market performance across platforms, genres, and publishers over time.
-
-**GDP Web Scraping & Economic Analysis** — *Python, Beautiful Soup*
-- Developed an automated web scraper extracting nominal GDP metrics for 220+ countries for comparative regional economic analysis.
+`Python` · `SQL` · `Machine Learning` · `Data Analysis` · `Power BI`
 
 ---
 
-### 🎖️ Certifications & Training
+## Tech
 
-- **AI & Data Science (Microsoft Machine Learning Engineer Track)** — Applied training covering ML/DL pipelines, NLP, Computer Vision, MLOps (MLflow & Hugging Face), and Azure AI.
-- **Problem Solving (Basic) Skill Certification** — HackerRank (2026)
-- **Data Analysis Engineering Diploma** — MEC Academy (2026)
-- **Data Analysis for Freelancing (Python, SQL, Power BI)** — NTI (2026)
-- **GitHub Foundations** — DataCamp (2026)
-- **Python (Basic) Skill Certification** — HackerRank (2025)
-- **Data Manipulation with pandas** — DataCamp (2025)
-- **Statistics Foundations 1: The Basics** — LinkedIn Learning (NASBA CPE Accredited, 2025)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,java,cpp,js" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-4D77CF?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MLflow-MLOps-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-AI%20%26%20ML-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</p>
+
+<details>
+<summary><b>More technologies</b></summary>
+
+<br>
+
+**Machine Learning:** Machine Learning · Deep Learning · NLP · Attention Models · Computer Vision · Transfer Learning · Feature Engineering
+
+**Data & Visualization:** EDA · Data Cleaning · Matplotlib · Seaborn · Plotly · Folium
+
+**Cloud & MLOps:** Azure AI · MLflow · Hugging Face
+
+**Data Collection:** Web Scraping · Beautiful Soup · REST APIs
+
+</details>
 
 ---
 
-### 💡 Competitive Programming & Problem Solving
-Actively honing data structures and algorithmic efficiency:
-- [LeetCode Profile](https://leetcode.com/u/ahmedjoo2003/)
-- [Codeforces Profile](https://codeforces.com/profile/Ahmed_jo2003)
-- **ECPC Contributor (2023):** Competed in the Egyptian Collegiate Programming Contest solving complex algorithmic problems under time constraints.
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### E-Commerce Analytics
+
+**Power BI · SQL**
+
+`99K Orders` `15.84M Revenue`
+
+Interactive dashboard for sales performance, delivery metrics, customer locations, and business KPIs.
+
+[View Project →](#)
+
+</td>
+<td width="50%" valign="top">
+
+### Airbnb NYC EDA
+
+**Python · Pandas · Folium**
+
+`~48K Listings`
+
+Explored price drivers, outliers, borough-level patterns, and geographic pricing intensity.
+
+[View Project →](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### GDP Data Pipeline
+
+**Python · Beautiful Soup**
+
+`220+ Countries`
+
+Automated GDP data collection, cleaning, and comparative economic analysis.
+
+[View Project →](#)
+
+</td>
+<td width="50%" valign="top">
+
+### Smart Traffic Analysis
+
+**Python · Pandas**
+
+Analyzed temporal, location, weather, and traffic patterns associated with accident frequency.
+
+[View Project →](#)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/">
+    <b>Explore all projects →</b>
+  </a>
+</p>
+
+---
+
+## Currently Building
+
+```text
+→ Machine Learning pipelines
+→ Deep Learning applications
+→ Computer Vision & NLP
+→ MLOps workflows
+```
+
+---
+
+## Beyond Data
+
+**Problem Solving · Algorithms · Competitive Programming**
+
+<a href="https://leetcode.com/u/ahmedjoo2003/">LeetCode</a> · <a href="https://codeforces.com/profile/Ahmed_jo2003">Codeforces</a> ·
+ECPC Contributor (2023)
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-yousef-273050350/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.kaggle.com/ahmedyousef2003">Kaggle</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:ahmedyousefbakrygouda@gmail.com">Email</a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=&fontSize=0"/>

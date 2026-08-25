@@ -1,92 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" fill="none">
-  <defs>
-    <style>
-      .term-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; fill: #8b949e; }
-      .status-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 10px; font-weight: bold; fill: #58a6ff; }
-      .section-label { font-family: 'Courier New', Courier, monospace; font-size: 11px; font-weight: bold; fill: #8b949e; letter-spacing: 1px; }
-      .prompt-head { font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: bold; fill: #58a6ff; }
-      .lbl { font-family: 'Courier New', Courier, monospace; font-size: 12px; fill: #8b949e; }
-      .val { font-family: 'Courier New', Courier, monospace; font-size: 12px; fill: #c9d1d9; }
-      .val-bold { font-family: 'Courier New', Courier, monospace; font-size: 12px; fill: #c9d1d9; font-weight: bold; }
-      .footer-quote { font-family: 'Courier New', Courier, monospace; font-size: 10px; font-weight: bold; fill: #484f58; }
-      .nav-banner { font-family: 'Courier New', Courier, monospace; font-size: 11px; fill: #8b949e; letter-spacing: 2px; }
-    </style>
-    <clipPath id="portrait-clip">
-      <rect x="25" y="95" width="370" height="355" rx="4"/>
-    </clipPath>
-  </defs>
+<div align="center">
 
-  <!-- Window Container -->
-  <rect width="900" height="520" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
-  
-  <!-- Header Bar -->
-  <path d="M0 12C0 5.37258 5.37258 0 12 0H888C894.627 0 900 5.37258 900 12V40H0V12Z" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
-  <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
-  <circle cx="60" cy="20" r="6" fill="#27c93f"/>
-  <text x="450" y="24" class="term-title" text-anchor="middle">ahmedyousef@ml-engineer ~ % ./profile</text>
-  <rect x="795" y="14" width="80" height="14" rx="7" fill="#1f6feb" opacity="0.3"/>
-  <circle cx="808" cy="21" r="3" fill="#58a6ff"/>
-  <text x="844" y="25" class="status-text" text-anchor="middle">BUILDING</text>
+  <!-- Terminal Dashboard SVG Widget -->
+  <img src="./terminal_card.svg" alt="Ahmed Yousef Terminal Profile" width="100%">
 
-  <!-- Left Frame: PORTRAIT -->
-  <rect x="20" y="60" width="380" height="400" rx="8" fill="#161b22" stroke="#30363d"/>
-  <text x="35" y="81" class="section-label">PORTRAIT / AHMED</text>
-  <line x1="20" y1="90" x2="400" y2="90" stroke="#30363d"/>
-  
-  <!-- ASCII Image Slot -->
-  <!-- إذا كان الملف باسم sepQk.svg أو sepQk.jpg مجاور للملف -->
-  <image href="sepQk (2).jpg" x="25" y="95" width="370" height="355" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait-clip)"/>
+  <br/><br/>
 
-  <!-- Right Frame: PROFILE -->
-  <rect x="420" y="60" width="460" height="400" rx="8" fill="#161b22" stroke="#30363d"/>
-  <text x="435" y="81" class="section-label">PROFILE / ENGINEER</text>
-  <line x1="420" y1="90" x2="880" y2="90" stroke="#30363d"/>
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/ahmed-yousef-273050350/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://kaggle.com/ahmedyousef2003">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="mailto:ahmedyousefbakrygouda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://leetcode.com/u/ahmedjoo2003/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://codeforces.com/profile/Ahmed_jo2003">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
 
-  <text x="435" y="115" class="prompt-head">ahmedyousef@ml-engineer</text>
+</div>
 
-  <text x="435" y="140" class="lbl">Name:</text>
-  <text x="535" y="140" class="val-bold">Ahmed Yousef Bakry</text>
+---
 
-  <text x="435" y="160" class="lbl">Role:</text>
-  <text x="535" y="160" class="val-bold">Machine Learning Engineer</text>
+### 🚀 About Me
+Machine Learning Engineer with a solid foundation in Python, statistics, and the end-to-end ML lifecycle (data preprocessing, exploratory analysis, model development, deep learning, and MLOps)[cite: 1]. Building on strong data analytics experience (SQL, Power BI, Advanced Excel), I translate raw data into actionable business insights and scalable machine learning solutions[cite: 1].
 
-  <text x="435" y="180" class="lbl">Based:</text>
-  <text x="535" y="180" class="val">Cairo, Egypt</text>
+---
 
-  <text x="435" y="200" class="lbl">Education:</text>
-  <text x="535" y="200" class="val">B.Tech in IT @ DTU (GPA 3.7)</text>
+### 📊 Featured Projects
 
-  <text x="435" y="220" class="lbl">Track:</text>
-  <text x="535" y="220" class="val">Microsoft ML Engineer / DEPI</text>
+* **E-Commerce Sales Dashboard** (`Power BI`, `SQL`)
+  * Analyzed **99K orders** and **$15.84M** in total revenue across product categories and customer locations[cite: 1].
+  * Modeled KPIs including **$160.58 AOV**, **12.09 avg delivery days**, and **97% delivery rate**[cite: 1].
 
-  <line x1="435" y1="235" x2="865" y2="235" stroke="#21262d"/>
+* **Airbnb NYC Listings Analysis & EDA** (`Python`, `Pandas`, `Seaborn`, `Folium`)
+  * Performed exploratory data analysis on **~48,000 listings** to identify key price drivers[cite: 1].
+  * Applied IQR outlier detection, feature engineering, and log normalization[cite: 1].
+  * Created interactive Folium heatmaps visualizing price intensity across NYC boroughs[cite: 1].
 
-  <text x="435" y="255" class="section-label">- FOCUS.STACK</text>
+* **Smart Traffic & Statistical Analysis** (`Python`, `Pandas`, `Matplotlib`, `Seaborn`)
+  * Engineered time/location features from incident data to identify urban traffic accident patterns and peak-risk conditions[cite: 1].
 
-  <text x="435" y="275" class="lbl">ML / AI:</text>
-  <text x="535" y="275" class="val">Deep Learning, NLP, CV, MLOps</text>
+* **Global Video Games Sales Analysis** (`Python`, `Pandas`, `Matplotlib`, `Seaborn`)
+  * Preprocessed historical global sales data and analyzed multi-regional trends across platforms, genres, and publishers[cite: 1].
 
-  <text x="435" y="295" class="lbl">Cloud:</text>
-  <text x="535" y="295" class="val">Azure AI, MLflow, Hugging Face</text>
+---
 
-  <text x="435" y="315" class="lbl">Analytics:</text>
-  <text x="535" y="315" class="val">Power BI, SQL, Pandas, EDA</text>
-
-  <line x1="435" y1="330" x2="865" y2="330" stroke="#21262d"/>
-
-  <text x="435" y="350" class="section-label">- TOOLCHAIN</text>
-
-  <text x="435" y="370" class="lbl">Code:</text>
-  <text x="535" y="370" class="val">Python, SQL, C/C++, Java, JS</text>
-
-  <text x="435" y="390" class="lbl">Tools:</text>
-  <text x="535" y="390" class="val">Git, GitHub, Power BI, Jupyter</text>
-
-  <text x="650" y="440" class="footer-quote" text-anchor="middle">FROM DATA PIPELINES TO END-TO-END ML MODELS</text>
-
-  <rect x="20" y="475" width="860" height="30" rx="6" fill="#161b22" stroke="#30363d"/>
-  <text x="450" y="494" class="nav-banner" text-anchor="middle">
-    DATA ANALYSIS  /  MACHINE LEARNING  /  DEEP LEARNING  /  MLOPS
-  </text>
-</svg>
+### 🎖️ Certifications & Training
+* **Microsoft Machine Learning Engineer Track** — AI & Data Science Training[cite: 1]
+* **Data Analysis Engineering Diploma** — MEC Academy (2026)[cite: 1]
+* **Problem Solving & Python Certifications** — HackerRank[cite: 1]
+* **GitHub Foundations** — DataCamp & GitHub (2026)[cite: 1]

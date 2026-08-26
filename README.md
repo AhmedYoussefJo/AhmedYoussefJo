@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Terminal Dashboard SVG Widget -->
-  <img src="./gemini-svg.svg" alt="Ahmed Yousef Terminal Profile" width="100%">
+  <img src="./about.svg" alt="Ahmed Yousef Terminal Profile" width="100%">
 
   <br/><br/>
 

@@ -82,61 +82,78 @@ Currently pursuing a **B.Tech in Information Technology (Software Track)** at De
 
 <br/>
 
-<div align="center">
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr>
-<td width="50%" align="center" style="padding-right: 5px; border: none;">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedYoussefJo&show_icons=true&bg_color=0d1117&title_color=20BEFF&text_color=c9d1d9&icon_color=a450ff&border_color=30363d&border_radius=10&count_private=true&include_all_commits=true" width="100%" alt="GitHub Activity" />
-</td>
-<td width="50%" align="center" style="padding-left: 5px; border: none;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYoussefJo&layout=compact&bg_color=0d1117&title_color=20BEFF&text_color=c9d1d9&border_color=30363d&border_radius=10&langs_count=6" width="100%" alt="Language Distribution" />
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
 ---
 
 ## 🚀 Selected Engineering Work
 
+<!-- Native HTML Project Cards (Bulletproof - Will Never Break) -->
 <div align="center">
-<table width="100%" style="border-collapse: collapse; border: none;">
+<table width="100%" style="border-collapse: separate; border-spacing: 10px; border: none;">
 <tr>
-<td width="50%" align="center" style="padding: 10px 5px 10px 0; border: none;">
-<a href="https://github.com/AhmedYoussefJo/Australia-Weather-Analytics-EDA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYoussefJo&repo=Australia-Weather-Analytics-EDA&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Australia Weather Analytics EDA">
-</a>
+<!-- Project 1 -->
+<td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+<h3 style="color: #20BEFF; margin-top: 0;">🌤️ Australia Weather Analytics EDA</h3>
+<p style="color: #8b949e; font-size: 14px;">Exploratory Data Analysis (EDA) analyzing Australian weather patterns and datasets to extract actionable meteorological insights.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+<br><br>
+<a href="https://github.com/AhmedYoussefJo/Australia-Weather-Analytics-EDA" style="color: #a450ff; text-decoration: none; font-weight: bold;">[ View Repository → ]</a>
 </td>
-<td width="50%" align="center" style="padding: 10px 0 10px 5px; border: none;">
-<a href="https://github.com/AhmedYoussefJo/Airbnb-NYC-Listings">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYoussefJo&repo=Airbnb-NYC-Listings&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Airbnb NYC Listings">
-</a>
+
+<!-- Project 2 -->
+<td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+<h3 style="color: #20BEFF; margin-top: 0;">🏙️ Airbnb NYC Listings</h3>
+<p style="color: #8b949e; font-size: 14px;">In-depth EDA on ~48K NYC Airbnb listings. Explored price drivers, detected outliers, and built geographic pricing heatmaps.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<br><br>
+<a href="https://github.com/AhmedYoussefJo/Airbnb-NYC-Listings" style="color: #a450ff; text-decoration: none; font-weight: bold;">[ View Repository → ]</a>
 </td>
 </tr>
+
 <tr>
-<td width="50%" align="center" style="padding: 10px 5px 10px 0; border: none;">
-<a href="https://github.com/AhmedYoussefJo/Global-Video-Games-Sales">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYoussefJo&repo=Global-Video-Games-Sales&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Global Video Games Sales">
-</a>
+<!-- Project 3 -->
+<td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+<h3 style="color: #20BEFF; margin-top: 0;">🎮 Global Video Games Sales</h3>
+<p style="color: #8b949e; font-size: 14px;">Cleaned and preprocessed historical global sales data to identify best-selling genres, top publishers, and market trends over time.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<br><br>
+<a href="https://github.com/AhmedYoussefJo/Global-Video-Games-Sales" style="color: #a450ff; text-decoration: none; font-weight: bold;">[ View Repository → ]</a>
 </td>
-<td width="50%" align="center" style="padding: 10px 0 10px 5px; border: none;">
-<a href="https://github.com/AhmedYoussefJo/List_of_countries_by_GDP_Web_Scraping_Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYoussefJo&repo=List_of_countries_by_GDP_Web_Scraping_Analysis&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="List of countries by GDP Web Scraping Analysis">
-</a>
+
+<!-- Project 4 -->
+<td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+<h3 style="color: #20BEFF; margin-top: 0;">🌍 GDP Web Scraping Analysis</h3>
+<p style="color: #8b949e; font-size: 14px;">Automated data pipeline scraping nominal GDP data for 220+ countries, followed by comparative economic analysis and cleaning.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/BeautifulSoup-FFD43B?style=flat-square&logo=python&logoColor=black" />
+<br><br>
+<a href="https://github.com/AhmedYoussefJo/List_of_countries_by_GDP_Web_Scraping_Analysis" style="color: #a450ff; text-decoration: none; font-weight: bold;">[ View Repository → ]</a>
 </td>
 </tr>
+
 <tr>
-<td width="50%" align="center" style="padding: 10px 5px 10px 0; border: none;">
-<a href="https://github.com/AhmedYoussefJo/Smart-Traffic-EDA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYoussefJo&repo=Smart-Traffic-EDA&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Smart Traffic EDA">
-</a>
+<!-- Project 5 -->
+<td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+<h3 style="color: #20BEFF; margin-top: 0;">🚦 Smart Traffic EDA</h3>
+<p style="color: #8b949e; font-size: 14px;">Analyzed temporal, location, weather, and traffic patterns associated with accident frequency to surface peak-risk conditions.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+<br><br>
+<a href="https://github.com/AhmedYoussefJo/Smart-Traffic-EDA" style="color: #a450ff; text-decoration: none; font-weight: bold;">[ View Repository → ]</a>
 </td>
-<td width="50%" align="center" style="padding: 10px 0 10px 5px; border: none;">
-<a href="https://github.com/AhmedYoussefJo/Descriptive-Statistical-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYoussefJo&repo=Descriptive-Statistical-Analysis&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Descriptive Statistical Analysis">
-</a>
+
+<!-- Project 6 -->
+<td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+<h3 style="color: #20BEFF; margin-top: 0;">📈 Descriptive Statistical Analysis</h3>
+<p style="color: #8b949e; font-size: 14px;">Comprehensive statistical foundations project exploring distributions, variance, and central tendencies within structured datasets.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Statistics-20BEFF?style=flat-square&logo=googleanalytics&logoColor=white" />
+<br><br>
+<a href="https://github.com/AhmedYoussefJo/Descriptive-Statistical-Analysis" style="color: #a450ff; text-decoration: none; font-weight: bold;">[ View Repository → ]</a>
 </td>
 </tr>
 </table>

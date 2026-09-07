@@ -1,0 +1,4 @@
+# Automation & Temporary Scripts
+unlock_achievements.py
+*.log
+.env

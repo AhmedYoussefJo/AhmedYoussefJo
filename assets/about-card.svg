@@ -196,10 +196,10 @@
   <text class="window-title" x="420" y="22" text-anchor="middle">ahmed — engineering overview</text>
 
   <!-- Top Right Status Badge -->
-  <g transform="translate(605, 9)" filter="url(#glow-badge-about)">
-    <rect width="215" height="20" rx="10" fill="#0c1d2e" fill-opacity="0.85" stroke="#0284c7" stroke-width="1"/>
+  <g transform="translate(625, 9)" filter="url(#glow-badge-about)">
+    <rect width="195" height="20" rx="10" fill="#0c1d2e" fill-opacity="0.85" stroke="#0284c7" stroke-width="1"/>
     <circle class="pulse-dot" cx="12" cy="10" r="3.5" fill="#38bdf8"/>
-    <text font-family="-apple-system, sans-serif" font-size="10" font-weight="700" fill="#38bdf8" x="22" y="13.5">GPA: 3.7 / 4.0 • DTU SOFTWARE</text>
+    <text font-family="-apple-system, sans-serif" font-size="10" font-weight="700" fill="#38bdf8" x="22" y="13.5">ML ENGINEER • DATA &amp; AI</text>
   </g>
 
   <!-- About Content Body -->
@@ -210,13 +210,13 @@
 
     <text class="about-head" x="0" y="26">Machine Learning Engineer &amp; Data Analyst</text>
     <text class="about-body" x="0" y="48">
-      Delivering end-to-end ML &amp; analytics solutions — data preprocessing, statistical modeling, deep learning, and MLOps.
+      Turning complex datasets into predictive machine learning pipelines and actionable business intelligence.
     </text>
     <text class="about-body" x="0" y="68">
-      Pursuing a <tspan fill="#ffffff" font-weight="600">B.Tech in IT (Software Track)</tspan> at Delta Technological University (Expected 2027 • <tspan fill="#34d399" font-weight="700">GPA: 3.7 / 4.0</tspan>).
+      Specialized in <tspan fill="#38bdf8" font-weight="600">Exploratory Data Analysis (EDA)</tspan>, <tspan fill="#34d399" font-weight="600">Deep Learning</tspan>, NLP with Attention Models, and Computer Vision.
     </text>
     <text class="about-body" x="0" y="88">
-      Certified across <tspan fill="#38bdf8" font-weight="600">Microsoft ML Engineer Track</tspan>, <tspan fill="#c084fc" font-weight="600">NTI</tspan>, and <tspan fill="#ffd043" font-weight="600">MEC Academy</tspan> • Hands-on in Azure AI, MLOps, NLP &amp; Computer Vision.
+      Hands-on expertise across <tspan fill="#c084fc" font-weight="600">Azure AI</tspan>, <tspan fill="#ffd043" font-weight="600">MLOps (MLflow, Hugging Face)</tspan>, and automated geospatial pipelines.
     </text>
   </g>
 
@@ -235,7 +235,7 @@
     <g transform="translate(450, 0)">
       <rect class="pill" width="185" height="28"/>
       <circle cx="12" cy="14" r="3.5" fill="#f5a623"/>
-      <text class="spec-text" x="24" y="18">Microsoft ML Track • NTI</text>
+      <text class="spec-text" x="24" y="18">Scikit-Learn • PyTorch</text>
     </g>
     <g transform="translate(645, 0)">
       <rect class="pill" width="145" height="28"/>

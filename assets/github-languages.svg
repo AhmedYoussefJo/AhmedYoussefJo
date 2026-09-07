@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="410" height="215" viewBox="0 0 410 215" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">language-distribution</title>
-  <desc id="desc">Top programming languages by code volume across Ahmed's public non-fork repositories.</desc>
+  <desc id="desc">Top programming languages by code volume across Ahmed's public repositories.</desc>
   <defs>
     <!-- Background Glass Base -->
     <linearGradient id="glass-base-w" x1="0" y1="0" x2="410" y2="215" gradientUnits="userSpaceOnUse">
@@ -71,7 +71,6 @@
   </defs>
 
   <style>
-    /* Running Border Laser Animation */
     @keyframes borderLaserLoopW {
       0% { stroke-dashoffset: 0; }
       100% { stroke-dashoffset: -1226; }
@@ -117,7 +116,6 @@
     .window-title { font: 500 12px -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif; fill: #86868b; }
     .label { font: 500 12px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; fill: #a1a1a6; }
     .value { font: 700 14px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; fill: #f5f5f7; }
-    .rank-badge { font: 800 14px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; fill: #30d158; }
     .text { font: 600 12px -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif; fill: #f5f5f7; }
     @media (prefers-color-scheme: light) {
       .win-bg { fill: #ffffff; stroke: #d1d5db; }
@@ -125,7 +123,6 @@
       .window-title { fill: #4b5563; }
       .label { fill: #6b7280; }
       .value { fill: #111827; }
-      .rank-badge { fill: #059669; }
       .text { fill: #111827; }
       .divider { stroke: #e5e7eb; }
       .pill-bg { fill: #f3f4f6; stroke: #e5e7eb; }
@@ -177,30 +174,29 @@
 
   <!-- Progress Bar Base & Segments -->
   <rect x="24" y="52" width="362" height="7" rx="3.5" fill="#1b1e27"/>
-  <rect x="24.00" y="52" width="197.29" height="7" rx="3.5" fill="#3776AB"/>
-  <rect x="221.29" y="52" width="83.98" height="7" fill="#DA5B0B"/>
-  <rect x="305.27" y="52" width="41.27" height="7" fill="#00ADD8"/>
-  <rect x="346.54" y="52" width="22.08" height="7" fill="#00599C"/>
-  <rect x="368.62" y="52" width="17.38" height="7" rx="3.5" fill="#f1e05a"/>
+  <rect x="24.00" y="52" width="304.80" height="7" rx="3.5" fill="#DA5B0B"/>
+  <rect x="328.80" y="52" width="38.01" height="7" fill="#3776AB"/>
+  <rect x="366.81" y="52" width="11.58" height="7" fill="#4EAA25"/>
+  <rect x="378.40" y="52" width="7.60" height="7" rx="3.5" fill="#00599C"/>
 
-  <!-- Legend Items -->
-  <circle cx="28" cy="84" r="3.5" fill="#3776AB"/>
-  <text x="42" y="88" class="text">Python</text>
-  <text x="386" y="88" text-anchor="end" class="label">54.5%</text>
+  <!-- Real Language Legend -->
+  <circle cx="28" cy="84" r="3.5" fill="#DA5B0B"/>
+  <text x="42" y="88" class="text">Jupyter Notebook</text>
+  <text x="386" y="88" text-anchor="end" class="label">84.2%</text>
 
-  <circle cx="28" cy="108" r="3.5" fill="#DA5B0B"/>
-  <text x="42" y="112" class="text">Jupyter Notebook</text>
-  <text x="386" y="112" text-anchor="end" class="label">23.2%</text>
+  <circle cx="28" cy="108" r="3.5" fill="#3776AB"/>
+  <text x="42" y="112" class="text">Python (.py)</text>
+  <text x="386" y="112" text-anchor="end" class="label">10.5%</text>
 
-  <circle cx="28" cy="132" r="3.5" fill="#00ADD8"/>
-  <text x="42" y="136" class="text">SQL</text>
-  <text x="386" y="136" text-anchor="end" class="label">11.4%</text>
+  <circle cx="28" cy="132" r="3.5" fill="#4EAA25"/>
+  <text x="42" y="136" class="text">Shell / PowerShell</text>
+  <text x="386" y="136" text-anchor="end" class="label">3.2%</text>
 
   <circle cx="28" cy="156" r="3.5" fill="#00599C"/>
   <text x="42" y="160" class="text">C++</text>
-  <text x="386" y="160" text-anchor="end" class="label">6.1%</text>
+  <text x="386" y="160" text-anchor="end" class="label">1.2%</text>
 
-  <circle cx="28" cy="180" r="3.5" fill="#f1e05a"/>
-  <text x="42" y="184" class="text">JavaScript &amp; Others</text>
-  <text x="386" y="184" text-anchor="end" class="label">4.8%</text>
+  <circle cx="28" cy="180" r="3.5" fill="#e34c26"/>
+  <text x="42" y="184" class="text">HTML / CSS / Web</text>
+  <text x="386" y="184" text-anchor="end" class="label">0.9%</text>
 </svg>

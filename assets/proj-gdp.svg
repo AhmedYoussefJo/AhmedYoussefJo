@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="215" viewBox="0 0 410 215" fill="none" role="img" aria-labelledby="title-dp desc-dp">
+  <title id="title-dp">GDP Web Scraping &amp; Pipeline</title>
+  <desc id="desc-dp">Automated web scraping and ETL pipeline extracting nominal GDP metrics across 220+ countries.</desc>
+  <defs>
+    <linearGradient id="glass-base-pdp" x1="0" y1="0" x2="410" y2="215" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10131e" stop-opacity="0.92"/>
+      <stop offset="50%" stop-color="#0a0c14" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#06070b" stop-opacity="0.98"/>
+    </linearGradient>
+
+    <linearGradient id="static-border-pdp" x1="0" y1="0" x2="410" y2="215" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.15"/>
+    </linearGradient>
+
+    <linearGradient id="border-beam-pdp" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="40%" stop-color="#34d399"/>
+      <stop offset="80%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+
+    <radialGradient id="aurora-pdp-1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.30"/>
+      <stop offset="60%" stop-color="#0284c7" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aurora-pdp-2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.25"/>
+      <stop offset="60%" stop-color="#059669" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#059669" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="header-glass-pdp" x1="0" y1="0" x2="0" y2="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+
+    <linearGradient id="btn-red-pdp" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff6b62"/><stop offset="100%" stop-color="#ea3e36"/></linearGradient>
+    <linearGradient id="btn-yellow-pdp" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ffd043"/><stop offset="100%" stop-color="#f5a623"/></linearGradient>
+    <linearGradient id="btn-green-pdp" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#3fe25e"/><stop offset="100%" stop-color="#1db939"/></linearGradient>
+
+    <filter id="win-shadow-pdp" x="-5%" y="-5%" width="110%" height="118%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+    <filter id="laser-glow-pdp" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#38bdf8" flood-opacity="0.7"/>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes borderLaserLoopPDP {
+      0% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: -1226; }
+    }
+    .laser-border-pdp {
+      stroke: url(#border-beam-pdp);
+      stroke-width: 1.8;
+      stroke-dasharray: 8 16 32 20 8 16 60 140 8 16 40 140;
+      stroke-linecap: round;
+      animation: borderLaserLoopPDP 12s linear infinite;
+    }
+    .laser-border-fast-pdp {
+      stroke: #34d399;
+      stroke-width: 1.5;
+      stroke-dasharray: 30 220 60 250;
+      stroke-linecap: round;
+      animation: borderLaserLoopPDP 8s linear infinite;
+      opacity: 0.75;
+    }
+    @keyframes auroraPDP {
+      0% { transform: translate(0px, 0px) scale(1); opacity: 0.65; }
+      50% { transform: translate(-25px, 20px) scale(1.15); opacity: 0.9; }
+      100% { transform: translate(0px, 0px) scale(1); opacity: 0.65; }
+    }
+    .aurora-pdp { animation: auroraPDP 10s ease-in-out infinite; }
+    .window-title { font: 600 11px ui-monospace, SFMono-Regular, monospace; fill: #86868b; }
+    .proj-title { font: 700 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #ffffff; }
+    .proj-cmd { font: 600 11px ui-monospace, monospace; fill: #38bdf8; }
+    .proj-desc { font: 400 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #a1a1a6; }
+    .btn-lbl { font: 700 11px ui-monospace, monospace; fill: #38bdf8; }
+    .badge-bg { rx: 4; fill: #161b22; stroke: #30363d; stroke-width: 1; }
+    .badge-txt { font: 600 9px -apple-system, sans-serif; }
+  </style>
+
+  <rect x="2" y="2" width="406" height="211" rx="14" fill="url(#glass-base-pdp)" stroke="url(#static-border-pdp)" stroke-width="1.2" filter="url(#win-shadow-pdp)"/>
+
+  <clipPath id="proj-clip-dp">
+    <rect x="3" y="3" width="404" height="209" rx="13"/>
+  </clipPath>
+
+  <g clip-path="url(#proj-clip-dp)">
+    <g class="aurora-pdp">
+      <circle cx="80" cy="80" r="110" fill="url(#aurora-pdp-1)"/>
+      <circle cx="330" cy="140" r="120" fill="url(#aurora-pdp-2)"/>
+    </g>
+  </g>
+
+  <rect class="laser-border-pdp" x="2" y="2" width="406" height="211" rx="14" fill="none" filter="url(#laser-glow-pdp)"/>
+  <rect class="laser-border-fast-pdp" x="2" y="2" width="406" height="211" rx="14" fill="none"/>
+
+  <path d="M 2 14 C 2 7.37 7.37 2 14 2 L 396 2 C 402.63 2 408 7.37 408 14 L 408 34 L 2 34 Z" fill="url(#header-glass-pdp)"/>
+  <line x1="2" y1="34" x2="408" y2="34" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+
+  <g transform="translate(14, 11)">
+    <circle cx="5" cy="5" r="4.8" fill="url(#btn-red-pdp)"/>
+    <circle cx="19" cy="5" r="4.8" fill="url(#btn-yellow-pdp)"/>
+    <circle cx="33" cy="5" r="4.8" fill="url(#btn-green-pdp)"/>
+  </g>
+
+  <text class="window-title" x="65" y="21">etl@gdp-pipeline ~ $</text>
+
+  <g transform="translate(20, 50)">
+    <text class="proj-title" x="0" y="10">🌍 GDP Web Scraping &amp; Pipeline</text>
+    <text class="proj-cmd" x="0" y="30">&gt;_ Scraping 220+ Countries Nominal GDP...</text>
+    
+    <text class="proj-desc" x="0" y="52">
+      <tspan x="0" dy="0">Automated web scraping and ETL pipeline extracting nominal</tspan>
+      <tspan x="0" dy="16">GDP metrics across 220+ countries with structured cleaning.</tspan>
+    </text>
+
+    <g transform="translate(0, 86)">
+      <g transform="translate(0, 0)">
+        <rect class="badge-bg" width="82" height="18" fill="#2b2616" stroke="#FFD43B"/>
+        <text class="badge-txt" x="41" y="12.5" text-anchor="middle" fill="#FFD43B">BeautifulSoup</text>
+      </g>
+      <g transform="translate(88, 0)">
+        <rect class="badge-bg" width="56" height="18" fill="#1b2533" stroke="#3776AB"/>
+        <text class="badge-txt" x="28" y="12.5" text-anchor="middle" fill="#38bdf8">Python</text>
+      </g>
+      <g transform="translate(150, 0)">
+        <rect class="badge-bg" width="48" height="18" fill="#142633" stroke="#38bdf8"/>
+        <text class="badge-txt" x="24" y="12.5" text-anchor="middle" fill="#38bdf8">ETL</text>
+      </g>
+    </g>
+
+    <g transform="translate(0, 118)">
+      <rect width="168" height="24" rx="5" fill="#0d1f2d" stroke="#38bdf8" stroke-width="1"/>
+      <text class="btn-lbl" x="84" y="16" text-anchor="middle">[ EXECUTE_SOURCE → ]</text>
+    </g>
+  </g>
+</svg>

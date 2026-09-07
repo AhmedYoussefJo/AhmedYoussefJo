@@ -196,10 +196,10 @@
   <text class="window-title" x="420" y="22" text-anchor="middle">ahmed — engineering overview</text>
 
   <!-- Top Right Status Badge -->
-  <g transform="translate(635, 9)" filter="url(#glow-badge-about)">
-    <rect width="185" height="20" rx="10" fill="#0c1d2e" fill-opacity="0.85" stroke="#0284c7" stroke-width="1"/>
+  <g transform="translate(605, 9)" filter="url(#glow-badge-about)">
+    <rect width="215" height="20" rx="10" fill="#0c1d2e" fill-opacity="0.85" stroke="#0284c7" stroke-width="1"/>
     <circle class="pulse-dot" cx="12" cy="10" r="3.5" fill="#38bdf8"/>
-    <text font-family="-apple-system, sans-serif" font-size="10" font-weight="700" fill="#38bdf8" x="22" y="13.5">DTU • SOFTWARE TRACK</text>
+    <text font-family="-apple-system, sans-serif" font-size="10" font-weight="700" fill="#38bdf8" x="22" y="13.5">GPA: 3.7 / 4.0 • DTU SOFTWARE</text>
   </g>
 
   <!-- About Content Body -->
@@ -210,32 +210,37 @@
 
     <text class="about-head" x="0" y="26">Machine Learning Engineer &amp; Data Analyst</text>
     <text class="about-body" x="0" y="48">
-      Building robust data-driven solutions — from raw data collection and exploratory analysis to end-to-end ML workflows.
+      Delivering end-to-end ML &amp; analytics solutions — data preprocessing, statistical modeling, deep learning, and MLOps.
     </text>
     <text class="about-body" x="0" y="68">
-      Pursuing a <tspan fill="#ffffff" font-weight="600">B.Tech in Information Technology</tspan> at Delta Technological University, focused on predictive modeling &amp; analytics.
+      Pursuing a <tspan fill="#ffffff" font-weight="600">B.Tech in IT (Software Track)</tspan> at Delta Technological University (Expected 2027 • <tspan fill="#34d399" font-weight="700">GPA: 3.7 / 4.0</tspan>).
     </text>
     <text class="about-body" x="0" y="88">
-      Hands-on experience in statistical analysis, data pipelines, geospatial mapping, and scalable machine learning training.
+      Certified across <tspan fill="#38bdf8" font-weight="600">Microsoft ML Engineer Track</tspan>, <tspan fill="#c084fc" font-weight="600">NTI</tspan>, and <tspan fill="#ffd043" font-weight="600">MEC Academy</tspan> • Hands-on in Azure AI, MLOps, NLP &amp; Computer Vision.
     </text>
   </g>
 
   <!-- Bottom Specs / Technologies Bar -->
   <g transform="translate(24, 178)">
     <g transform="translate(0, 0)">
-      <rect class="pill" width="225" height="28"/>
+      <rect class="pill" width="195" height="28"/>
       <circle cx="12" cy="14" r="3.5" fill="#30d158"/>
       <text class="spec-text" x="24" y="18">Python • SQL • Power BI</text>
     </g>
-    <g transform="translate(235, 0)">
-      <rect class="pill" width="265" height="28"/>
+    <g transform="translate(205, 0)">
+      <rect class="pill" width="235" height="28"/>
       <circle cx="12" cy="14" r="3.5" fill="#38bdf8"/>
-      <text class="spec-text" x="24" y="18">PyTorch • Scikit-Learn • Azure AI</text>
+      <text class="spec-text" x="24" y="18">Azure AI • MLOps • NLP • CV</text>
     </g>
-    <g transform="translate(510, 0)">
-      <rect class="pill" width="205" height="28"/>
+    <g transform="translate(450, 0)">
+      <rect class="pill" width="185" height="28"/>
+      <circle cx="12" cy="14" r="3.5" fill="#f5a623"/>
+      <text class="spec-text" x="24" y="18">Microsoft ML Track • NTI</text>
+    </g>
+    <g transform="translate(645, 0)">
+      <rect class="pill" width="145" height="28"/>
       <circle cx="12" cy="14" r="3.5" fill="#c084fc"/>
-      <text class="spec-text" x="24" y="18">ECPC Contributor ('23 &amp; '26)</text>
+      <text class="spec-text" x="24" y="18">ECPC ('23 &amp; '26)</text>
     </g>
     <g transform="translate(725, 0)">
       <rect class="pill" width="65" height="28"/>

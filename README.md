@@ -97,10 +97,10 @@ Currently pursuing a **B.Tech in Information Technology (Software Track)** at De
   <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
       <td width="50%" align="center" style="padding-right: 5px; border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d1117&title_color=20BEFF&text_color=c9d1d9&icon_color=a450ff&border_color=30363d&border_radius=10&count_private=true&include_all_commits=true" width="100%" alt="GitHub Activity" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AhmedYoussefJo&show_icons=true&bg_color=0d1117&title_color=20BEFF&text_color=c9d1d9&icon_color=a450ff&border_color=30363d&border_radius=10&count_private=true&include_all_commits=true" width="100%" alt="GitHub Activity" />
       </td>
       <td width="50%" align="center" style="padding-left: 5px; border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0d1117&title_color=20BEFF&text_color=c9d1d9&border_color=30363d&border_radius=10&langs_count=6" width="100%" alt="Language Distribution" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYoussefJo&layout=compact&bg_color=0d1117&title_color=20BEFF&text_color=c9d1d9&border_color=30363d&border_radius=10&langs_count=6" width="100%" alt="Language Distribution" />
       </td>
     </tr>
   </table>
@@ -117,25 +117,25 @@ Currently pursuing a **B.Tech in Information Technology (Software Track)** at De
   <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
       <td width="50%" align="center" style="padding: 10px 5px 10px 0; border: none;">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Project 1">
+        <a href="https://github.com/AhmedYoussefJo/Australia-Weather-Analytics-EDA">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYoussefJo&repo=Australia-Weather-Analytics-EDA&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Australia Weather Analytics EDA">
         </a>
       </td>
       <td width="50%" align="center" style="padding: 10px 0 10px 5px; border: none;">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Project 2">
+        <a href="https://github.com/AhmedYoussefJo/Global-Video-Games-Sales">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYoussefJo&repo=Global-Video-Games-Sales&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Global Video Games Sales">
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" style="padding: 10px 5px 10px 0; border: none;">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_3&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Project 3">
+        <a href="https://github.com/AhmedYoussefJo/Airbnb-NYC-Listings">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYoussefJo&repo=Airbnb-NYC-Listings&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Airbnb NYC Listings">
         </a>
       </td>
       <td width="50%" align="center" style="padding: 10px 0 10px 5px; border: none;">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_4&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Project 4">
+        <a href="https://github.com/AhmedYoussefJo/Smart-Traffic-EDA">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYoussefJo&repo=Smart-Traffic-EDA&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Smart Traffic EDA">
         </a>
       </td>
     </tr>
@@ -151,3 +151,4 @@ Currently pursuing a **B.Tech in Information Technology (Software Track)** at De
 → Deep Learning applications
 → Computer Vision & NLP
 → MLOps workflows
+```

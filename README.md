@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- الكارد الأولى بتاعتك رجعت زي ما هي بالظبط -->
 <img src="./about.svg" alt="Ahmed Yousef Terminal Profile" width="100%">
 
 <br/><br/>
@@ -39,43 +38,49 @@ Currently pursuing a **B.Tech in Information Technology (Software Track)** at De
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" align="top" /> Tech Arsenal
 
-<!-- تصميم التيرمينال لمهاراتك -->
-<table width="100%" style="background-color: #0d1117; border: 1px solid #1f2937; border-radius: 12px;">
-<tr style="background-color: #161b22;">
-<td colspan="4" align="left" style="padding: 12px 15px; border-bottom: 1px solid #1f2937; border-top-left-radius: 12px; border-top-right-radius: 12px;">
-<span style="font-size: 14px; margin-right: 15px;">🔴 🟡 🟢</span>
-<code style="color: #20BEFF; background: none; font-size: 13px; font-family: 'Fira Code', monospace;">ahmed@ml-engine ~/tech_stack $ ./deploy_skills.sh</code>
-</td>
-</tr>
-<tr>
-<td width="25%" align="center" valign="top" style="padding: 25px 10px; border-right: 1px dashed #1f2937;">
-<h4 style="color: #a450ff; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ 🤖 ML & AI ]</h4>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/NLP_%26_CV-20BEFF?style=flat-square&logo=openai&logoColor=white" />
-</td>
-<td width="25%" align="center" valign="top" style="padding: 25px 10px; border-right: 1px dashed #1f2937;">
-<h4 style="color: #a450ff; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ 📊 DATA OPS ]</h4>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/EDA_%26_Folium-276DC3?style=flat-square&logo=jupyter&logoColor=white" />
-</td>
-<td width="25%" align="center" valign="top" style="padding: 25px 10px; border-right: 1px dashed #1f2937;">
-<h4 style="color: #a450ff; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ ☁️ CLOUD ]</h4>
-<img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</td>
-<td width="25%" align="center" valign="top" style="padding: 25px 10px;">
-<h4 style="color: #a450ff; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ 💻 CORE ]</h4>
-<img src="https://skillicons.dev/icons?i=python,mysql&perline=2" style="margin-bottom: 5px;"/><br>
-<img src="https://skillicons.dev/icons?i=java,cpp&perline=2" style="margin-bottom: 5px;"/><br>
-<img src="https://skillicons.dev/icons?i=js,bash&perline=2" />
-</td>
-</tr>
+<div align="center">
+<table width="100%" style="background-color: #a450ff; padding: 2px; border-radius: 12px; border: none;">
+  <tr>
+    <td>
+      <table width="100%" style="background-color: #090c10; border-radius: 10px; border: none;">
+        <tr style="background-color: #161b22;">
+        <td colspan="4" align="left" style="padding: 12px 15px; border-bottom: 1px solid #1f2937; border-top-left-radius: 10px; border-top-right-radius: 10px;">
+        <span style="font-size: 14px; margin-right: 15px;">🔴 🟡 🟢</span>
+        <code style="color: #20BEFF; background: none; font-size: 13px; font-family: 'Fira Code', monospace;">ahmed@ml-engine ~/tech_stack $ ./deploy_skills.sh</code>
+        </td>
+        </tr>
+        <tr>
+        <td width="25%" align="center" valign="top" style="padding: 25px 10px; border-right: 1px dashed #1f2937;">
+        <h4 style="color: #20BEFF; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ 🤖 ML & AI ]</h4>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/NLP_%26_CV-20BEFF?style=flat-square&logo=openai&logoColor=white" />
+        </td>
+        <td width="25%" align="center" valign="top" style="padding: 25px 10px; border-right: 1px dashed #1f2937;">
+        <h4 style="color: #20BEFF; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ 📊 DATA OPS ]</h4>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/EDA_%26_Folium-276DC3?style=flat-square&logo=jupyter&logoColor=white" />
+        </td>
+        <td width="25%" align="center" valign="top" style="padding: 25px 10px; border-right: 1px dashed #1f2937;">
+        <h4 style="color: #20BEFF; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ ☁️ CLOUD ]</h4>
+        <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        </td>
+        <td width="25%" align="center" valign="top" style="padding: 25px 10px;">
+        <h4 style="color: #20BEFF; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ 💻 CORE ]</h4>
+        <img src="https://skillicons.dev/icons?i=python,mysql&perline=2" style="margin-bottom: 5px;"/><br>
+        <img src="https://skillicons.dev/icons?i=java,cpp&perline=2" style="margin-bottom: 5px;"/><br>
+        <img src="https://skillicons.dev/icons?i=js,bash&perline=2" />
+        </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 </div>
 
@@ -87,10 +92,15 @@ Currently pursuing a **B.Tech in Information Technology (Software Track)** at De
 <table width="100%" style="background-color: #0d1117; border: 1px solid #1f2937; border-radius: 12px; padding: 15px;">
 <tr>
 <td width="50%" align="center" style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedYoussefJo&show_icons=true&bg_color=0d1117&title_color=20BEFF&text_color=c9d1d9&icon_color=a450ff&hide_border=true" width="100%" alt="GitHub Activity" />
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedYoussefJo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub Activity" />
 </td>
 <td width="50%" align="center" style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYoussefJo&layout=compact&bg_color=0d1117&title_color=20BEFF&text_color=c9d1d9&hide_border=true&langs_count=6" width="100%" alt="Language Distribution" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYoussefJo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" width="100%" alt="Language Distribution" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" style="border: none; padding-top: 10px;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedYoussefJo&theme=tokyonight&hide_border=true&background=0d1117" width="100%" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
@@ -102,11 +112,9 @@ Currently pursuing a **B.Tech in Information Technology (Software Track)** at De
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" align="top" /> Live Engineering Work
 
-<!-- هنا استخدمنا خلفيات ملونة (أزرق وبنفسجي) كإطار، وجواها خلفية داكنة عشان تدي تأثير الكروت المضيئة الفخمة -->
 <div align="center">
 <table width="100%" style="border-collapse: separate; border-spacing: 15px; border: none;">
 <tr>
-<!-- 🔹 Project 1 (Cyan Neon Border) -->
 <td width="50%" valign="top" style="background-color: #20BEFF; padding: 2px; border-radius: 10px;">
   <table width="100%" height="100%" style="background-color: #0d1117; border-radius: 8px; border: none; padding: 20px;">
     <tr>
@@ -123,8 +131,6 @@ Currently pursuing a **B.Tech in Information Technology (Software Track)** at De
     </tr>
   </table>
 </td>
-
-<!-- 🔹 Project 2 (Purple Neon Border) -->
 <td width="50%" valign="top" style="background-color: #a450ff; padding: 2px; border-radius: 10px;">
   <table width="100%" height="100%" style="background-color: #0d1117; border-radius: 8px; border: none; padding: 20px;">
     <tr>
@@ -142,9 +148,7 @@ Currently pursuing a **B.Tech in Information Technology (Software Track)** at De
   </table>
 </td>
 </tr>
-
 <tr>
-<!-- 🔹 Project 3 (Cyan Neon Border) -->
 <td width="50%" valign="top" style="background-color: #20BEFF; padding: 2px; border-radius: 10px;">
   <table width="100%" height="100%" style="background-color: #0d1117; border-radius: 8px; border: none; padding: 20px;">
     <tr>
@@ -161,8 +165,6 @@ Currently pursuing a **B.Tech in Information Technology (Software Track)** at De
     </tr>
   </table>
 </td>
-
-<!-- 🔹 Project 4 (Purple Neon Border) -->
 <td width="50%" valign="top" style="background-color: #a450ff; padding: 2px; border-radius: 10px;">
   <table width="100%" height="100%" style="background-color: #0d1117; border-radius: 8px; border: none; padding: 20px;">
     <tr>
@@ -180,9 +182,7 @@ Currently pursuing a **B.Tech in Information Technology (Software Track)** at De
   </table>
 </td>
 </tr>
-
 <tr>
-<!-- 🔹 Project 5 (Cyan Neon Border) -->
 <td width="50%" valign="top" style="background-color: #20BEFF; padding: 2px; border-radius: 10px;">
   <table width="100%" height="100%" style="background-color: #0d1117; border-radius: 8px; border: none; padding: 20px;">
     <tr>
@@ -199,8 +199,6 @@ Currently pursuing a **B.Tech in Information Technology (Software Track)** at De
     </tr>
   </table>
 </td>
-
-<!-- 🔹 Project 6 (Purple Neon Border) -->
 <td width="50%" valign="top" style="background-color: #a450ff; padding: 2px; border-radius: 10px;">
   <table width="100%" height="100%" style="background-color: #0d1117; border-radius: 8px; border: none; padding: 20px;">
     <tr>

@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- 🌌 Animated Header with Gradient Wave -->
 <a href="https://github.com/AhmedYoussefJo">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:a450ff,100:20BEFF&section=header&text=Ahmed%20Yousef%20Bakry&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Building%20Intelligent%20Systems%20%26%20Data%20Pipelines&descAlignY=72&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12002b,50:a450ff,100:20BEFF&section=header&text=Ahmed%20Yousef%20Bakry&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Architecting%20Intelligent%20Models%20%26%20Data%20Pipelines&descAlignY=72&descAlign=50"/>
 </a>
 
 <br/>
 
-<!-- Continuous Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20BEFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Analyst;AI+Enthusiast;Model+Optimization" alt="Typing SVG" />
+<!-- ⌨️ Multi-line Continuous Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=20BEFF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Analyst+%7C+Statistician;AI+Models+%26+Predictive+Analytics;Building+End-to-End+Pipelines" alt="Typing SVG" />
 
 <br/>
 
@@ -24,51 +24,57 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="35" align="top" /> System.out.println("About Me");
 
-Machine Learning Engineer with a solid foundation in **Python, statistics, data analysis, and the end-to-end ML lifecycle**. Currently pursuing a **B.Tech in Information Technology (Software Track)** at Delta Technological University. I specialize in transforming raw data into actionable insights and robust predictive models.
+Machine Learning Engineer with a solid foundation in **Python, statistics, data analysis, and the end-to-end ML lifecycle**. Currently pursuing a **B.Tech in Information Technology (Software Track)** at Delta Technological University. I specialize in transforming raw data into actionable insights and deploying robust predictive models.
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" align="top" /> Tech Arsenal
 
+<!-- خدعة الإطار المضيء (Neon Border Wrapper) للـ Tech Stack -->
 <div align="center">
-<table width="100%" style="background-color: #090c10; border: 1px solid #1f2937; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.8);">
-<!-- Terminal Header -->
-<tr style="background-color: #161b22;">
-<td colspan="4" align="left" style="padding: 12px 15px; border-bottom: 1px solid #1f2937; border-top-left-radius: 12px; border-top-right-radius: 12px;">
-<span style="font-size: 14px; margin-right: 15px;">🔴 🟡 🟢</span>
-<code style="color: #8b949e; background: none; font-size: 13px; font-family: 'Fira Code', monospace;">ahmed@core ~/model_training $ ./init_stack.sh</code>
-</td>
-</tr>
-<!-- Terminal Grid -->
-<tr>
-<td width="25%" align="center" valign="top" style="padding: 25px 10px; border-right: 1px dashed #1f2937;">
-<h4 style="color: #a450ff; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ 🤖 ML & AI ]</h4>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/NLP_%26_CV-20BEFF?style=flat-square&logo=openai&logoColor=white" />
-</td>
-<td width="25%" align="center" valign="top" style="padding: 25px 10px; border-right: 1px dashed #1f2937;">
-<h4 style="color: #a450ff; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ 📊 DATA OPS ]</h4>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/EDA_%26_Folium-276DC3?style=flat-square&logo=jupyter&logoColor=white" />
-</td>
-<td width="25%" align="center" valign="top" style="padding: 25px 10px; border-right: 1px dashed #1f2937;">
-<h4 style="color: #a450ff; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ ☁️ CLOUD ]</h4>
-<img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="margin-bottom: 8px;"/><br>
-<img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</td>
-<td width="25%" align="center" valign="top" style="padding: 25px 10px;">
-<h4 style="color: #a450ff; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ 💻 CORE ]</h4>
-<img src="https://skillicons.dev/icons?i=python,mysql&perline=2" style="margin-bottom: 5px;"/><br>
-<img src="https://skillicons.dev/icons?i=java,cpp&perline=2" style="margin-bottom: 5px;"/><br>
-<img src="https://skillicons.dev/icons?i=js,bash&perline=2" />
-</td>
-</tr>
+<table width="100%" style="background-color: #a450ff; padding: 2px; border-radius: 12px; border: none;">
+  <tr>
+    <td>
+      <!-- الكارت الداخلي -->
+      <table width="100%" style="background-color: #090c10; border-radius: 10px; border: none;">
+        <tr style="background-color: #161b22;">
+        <td colspan="4" align="left" style="padding: 12px 15px; border-bottom: 1px solid #1f2937; border-top-left-radius: 10px; border-top-right-radius: 10px;">
+        <span style="font-size: 14px; margin-right: 15px;">🔴 🟡 🟢</span>
+        <code style="color: #20BEFF; background: none; font-size: 13px; font-family: 'Fira Code', monospace;">ahmed@ml-engine ~/tech_stack $ ./deploy_skills.sh</code>
+        </td>
+        </tr>
+        <tr>
+        <td width="25%" align="center" valign="top" style="padding: 25px 10px; border-right: 1px dashed #1f2937;">
+        <h4 style="color: #20BEFF; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ 🤖 ML & AI ]</h4>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/NLP_%26_CV-20BEFF?style=flat-square&logo=openai&logoColor=white" />
+        </td>
+        <td width="25%" align="center" valign="top" style="padding: 25px 10px; border-right: 1px dashed #1f2937;">
+        <h4 style="color: #20BEFF; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ 📊 DATA OPS ]</h4>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/EDA_%26_Folium-276DC3?style=flat-square&logo=jupyter&logoColor=white" />
+        </td>
+        <td width="25%" align="center" valign="top" style="padding: 25px 10px; border-right: 1px dashed #1f2937;">
+        <h4 style="color: #20BEFF; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ ☁️ CLOUD ]</h4>
+        <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="margin-bottom: 8px;"/><br>
+        <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        </td>
+        <td width="25%" align="center" valign="top" style="padding: 25px 10px;">
+        <h4 style="color: #20BEFF; font-family: monospace; letter-spacing: 1px; margin-bottom: 15px;">[ 💻 CORE ]</h4>
+        <img src="https://skillicons.dev/icons?i=python,mysql&perline=2" style="margin-bottom: 5px;"/><br>
+        <img src="https://skillicons.dev/icons?i=java,cpp&perline=2" style="margin-bottom: 5px;"/><br>
+        <img src="https://skillicons.dev/icons?i=js,bash&perline=2" />
+        </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 </div>
 
@@ -77,21 +83,27 @@ Machine Learning Engineer with a solid foundation in **Python, statistics, data 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" align="top" /> GitHub Analytics Dashboard
 
 <div align="center">
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr>
-<!-- الثيم هنا اتغير لـ tokyonight عشان نضمن إنه ميضربش واضفنا v=1 كـ Cache Buster -->
-<td width="50%" align="center" style="padding-right: 5px; border: none;">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedYoussefJo&theme=tokyonight&show_icons=true&hide_border=true&bg_color=090c10&v=1" width="100%" alt="GitHub Activity" />
-</td>
-<td width="50%" align="center" style="padding-left: 5px; border: none;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYoussefJo&theme=tokyonight&layout=compact&hide_border=true&bg_color=090c10&langs_count=6&v=1" width="100%" alt="Language Distribution" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" style="padding-top: 10px; border: none;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedYoussefJo&theme=tokyonight&hide_border=true&background=090c10" width="100%" alt="GitHub Streak" />
-</td>
-</tr>
+<table width="100%" style="background-color: #20BEFF; padding: 2px; border-radius: 12px; border: none;">
+  <tr>
+    <td>
+      <table width="100%" style="background-color: #090c10; border-radius: 10px; border: none; padding: 15px;">
+        <tr>
+        <td width="50%" align="center" style="border: none;">
+        <!-- أكواد ألوان صريحة بدل الـ Theme عشان نمنع الكسر -->
+        <img src="https://github-readme-stats.vercel.app/api?username=AhmedYoussefJo&show_icons=true&bg_color=090c10&title_color=a450ff&text_color=c9d1d9&icon_color=20BEFF&hide_border=true&v=3" width="100%" alt="GitHub Activity" />
+        </td>
+        <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYoussefJo&layout=compact&bg_color=090c10&title_color=20BEFF&text_color=c9d1d9&hide_border=true&langs_count=6&v=3" width="100%" alt="Language Distribution" />
+        </td>
+        </tr>
+        <tr>
+        <td colspan="2" align="center" style="border: none; padding-top: 15px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedYoussefJo&background=090c10&stroke=0000&ring=20BEFF&fire=a450ff&currStreakNum=20BEFF&currStreakLabel=a450ff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&hide_border=true&v=3" width="100%" alt="GitHub Streak" />
+        </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 </div>
 
@@ -102,82 +114,118 @@ Machine Learning Engineer with a solid foundation in **Python, statistics, data 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" align="top" /> Live Engineering Work
 
 <div align="center">
-<table width="100%" style="border-collapse: separate; border-spacing: 12px; border: none;">
+<table width="100%" style="border-collapse: separate; border-spacing: 15px; border: none;">
 <tr>
-<!-- Project 1 -->
-<td width="50%" valign="top" style="background-color: #090c10; border: 1px solid #1f2937; border-left: 4px solid #20BEFF; border-radius: 8px; padding: 18px;">
-<h3 style="color: #ffffff; margin-top: 0;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Cloud.png" width="22" align="top" /> Australia Weather EDA</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=8b949e&width=400&lines=>_Loading+weather_data.csv...;>_Executing+Exploratory+Data+Analysis...;>_Extracting+Meteorological+Insights...;>_Status:+Pipeline+Completed" alt="Terminal Typing" />
-<br>
-<div style="margin-bottom: 12px; margin-top: 5px;">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-</div>
-<a href="https://github.com/AhmedYoussefJo/Australia-Weather-Analytics-EDA" style="color: #20BEFF; text-decoration: none;"><code>[ Execute_Repository ]</code></a>
+<!-- 🔹 Project 1 (Cyan Glow) -->
+<td width="50%" valign="top" style="background-color: #20BEFF; padding: 2px; border-radius: 10px;">
+  <table width="100%" height="100%" style="background-color: #0d1117; border-radius: 8px; border: none; padding: 20px;">
+    <tr>
+      <td>
+        <h3 style="color: #ffffff; margin-top: 0; display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Cloud.png" width="22" align="top" style="margin-right:8px;" /> Australia Weather EDA</h3>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=20BEFF&width=400&lines=>_Loading+weather_data.csv...;>_Executing+Exploratory+Data+Analysis...;>_Extracting+Meteorological+Insights...;>_Status:+Pipeline+Completed" alt="Terminal Typing" />
+        <br>
+        <div style="margin-bottom: 18px; margin-top: 8px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        </div>
+        <a href="https://github.com/AhmedYoussefJo/Australia-Weather-Analytics-EDA" style="color: #20BEFF; text-decoration: none; font-family: monospace; background: #161b22; padding: 6px 12px; border-radius: 4px; border: 1px solid #20BEFF;">[ EXECUTE_SOURCE ]</a>
+      </td>
+    </tr>
+  </table>
 </td>
 
-<!-- Project 2 -->
-<td width="50%" valign="top" style="background-color: #090c10; border: 1px solid #1f2937; border-left: 4px solid #a450ff; border-radius: 8px; padding: 18px;">
-<h3 style="color: #ffffff; margin-top: 0;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape.png" width="22" align="top" /> Airbnb NYC Listings</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=8b949e&width=400&lines=>_Initializing+Geospatial+Mapping...;>_Detecting+Price+Outliers...;>_Analyzing+48K+Airbnb+Listings...;>_Status:+Visualizations+Rendered" alt="Terminal Typing" />
-<br>
-<div style="margin-bottom: 12px; margin-top: 5px;">
-<img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-</div>
-<a href="https://github.com/AhmedYoussefJo/Airbnb-NYC-Listings" style="color: #a450ff; text-decoration: none;"><code>[ Execute_Repository ]</code></a>
+<!-- 🔹 Project 2 (Purple Glow) -->
+<td width="50%" valign="top" style="background-color: #a450ff; padding: 2px; border-radius: 10px;">
+  <table width="100%" height="100%" style="background-color: #0d1117; border-radius: 8px; border: none; padding: 20px;">
+    <tr>
+      <td>
+        <h3 style="color: #ffffff; margin-top: 0; display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape.png" width="22" align="top" style="margin-right:8px;" /> Airbnb NYC Listings</h3>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=a450ff&width=400&lines=>_Initializing+Geospatial+Mapping...;>_Detecting+Price+Outliers...;>_Analyzing+48K+Airbnb+Listings...;>_Status:+Visualizations+Rendered" alt="Terminal Typing" />
+        <br>
+        <div style="margin-bottom: 18px; margin-top: 8px;">
+        <img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        </div>
+        <a href="https://github.com/AhmedYoussefJo/Airbnb-NYC-Listings" style="color: #a450ff; text-decoration: none; font-family: monospace; background: #161b22; padding: 6px 12px; border-radius: 4px; border: 1px solid #a450ff;">[ EXECUTE_SOURCE ]</a>
+      </td>
+    </tr>
+  </table>
 </td>
 </tr>
 
 <tr>
-<!-- Project 3 -->
-<td width="50%" valign="top" style="background-color: #090c10; border: 1px solid #1f2937; border-left: 4px solid #20BEFF; border-radius: 8px; padding: 18px;">
-<h3 style="color: #ffffff; margin-top: 0;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="22" align="top" /> Global Games Sales</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=8b949e&width=400&lines=>_Preprocessing+Historical+Data...;>_Identifying+Market+Trends...;>_Aggregating+Top+Publishers...;>_Status:+Analysis+Ready" alt="Terminal Typing" />
-<br>
-<div style="margin-bottom: 12px; margin-top: 5px;">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-</div>
-<a href="https://github.com/AhmedYoussefJo/Global-Video-Games-Sales" style="color: #20BEFF; text-decoration: none;"><code>[ Execute_Repository ]</code></a>
+<!-- 🔹 Project 3 (Cyan Glow) -->
+<td width="50%" valign="top" style="background-color: #20BEFF; padding: 2px; border-radius: 10px;">
+  <table width="100%" height="100%" style="background-color: #0d1117; border-radius: 8px; border: none; padding: 20px;">
+    <tr>
+      <td>
+        <h3 style="color: #ffffff; margin-top: 0; display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="22" align="top" style="margin-right:8px;" /> Global Games Sales</h3>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=20BEFF&width=400&lines=>_Preprocessing+Historical+Data...;>_Identifying+Market+Trends...;>_Aggregating+Top+Publishers...;>_Status:+Analysis+Ready" alt="Terminal Typing" />
+        <br>
+        <div style="margin-bottom: 18px; margin-top: 8px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        </div>
+        <a href="https://github.com/AhmedYoussefJo/Global-Video-Games-Sales" style="color: #20BEFF; text-decoration: none; font-family: monospace; background: #161b22; padding: 6px 12px; border-radius: 4px; border: 1px solid #20BEFF;">[ EXECUTE_SOURCE ]</a>
+      </td>
+    </tr>
+  </table>
 </td>
 
-<!-- Project 4 -->
-<td width="50%" valign="top" style="background-color: #090c10; border: 1px solid #1f2937; border-left: 4px solid #a450ff; border-radius: 8px; padding: 18px;">
-<h3 style="color: #ffffff; margin-top: 0;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="22" align="top" /> GDP Web Scraping</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=8b949e&width=400&lines=>_Bypassing+DOM+Trees...;>_Scraping+220+Countries+GDP...;>_Cleaning+Raw+HTML+Tags...;>_Status:+Dataset+Generated" alt="Terminal Typing" />
-<br>
-<div style="margin-bottom: 12px; margin-top: 5px;">
-<img src="https://img.shields.io/badge/BeautifulSoup-FFD43B?style=flat-square&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/Pipeline-20BEFF?style=flat-square&logoColor=white" />
-</div>
-<a href="https://github.com/AhmedYoussefJo/List_of_countries_by_GDP_Web_Scraping_Analysis" style="color: #a450ff; text-decoration: none;"><code>[ Execute_Repository ]</code></a>
+<!-- 🔹 Project 4 (Purple Glow) -->
+<td width="50%" valign="top" style="background-color: #a450ff; padding: 2px; border-radius: 10px;">
+  <table width="100%" height="100%" style="background-color: #0d1117; border-radius: 8px; border: none; padding: 20px;">
+    <tr>
+      <td>
+        <h3 style="color: #ffffff; margin-top: 0; display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="22" align="top" style="margin-right:8px;" /> GDP Web Scraping</h3>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=a450ff&width=400&lines=>_Bypassing+DOM+Trees...;>_Scraping+220+Countries+GDP...;>_Cleaning+Raw+HTML+Tags...;>_Status:+Dataset+Generated" alt="Terminal Typing" />
+        <br>
+        <div style="margin-bottom: 18px; margin-top: 8px;">
+        <img src="https://img.shields.io/badge/BeautifulSoup-FFD43B?style=flat-square&logo=python&logoColor=black" />
+        <img src="https://img.shields.io/badge/Pipeline-20BEFF?style=flat-square&logoColor=white" />
+        </div>
+        <a href="https://github.com/AhmedYoussefJo/List_of_countries_by_GDP_Web_Scraping_Analysis" style="color: #a450ff; text-decoration: none; font-family: monospace; background: #161b22; padding: 6px 12px; border-radius: 4px; border: 1px solid #a450ff;">[ EXECUTE_SOURCE ]</a>
+      </td>
+    </tr>
+  </table>
 </td>
 </tr>
 
 <tr>
-<!-- Project 5 -->
-<td width="50%" valign="top" style="background-color: #090c10; border: 1px solid #1f2937; border-left: 4px solid #20BEFF; border-radius: 8px; padding: 18px;">
-<h3 style="color: #ffffff; margin-top: 0;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Police%20Car%20Light.png" width="22" align="top" /> Smart Traffic EDA</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=8b949e&width=400&lines=>_Correlating+Weather+&+Accidents...;>_Analyzing+Temporal+Patterns...;>_Calculating+Peak+Risks...;>_Status:+Insights+Deployed" alt="Terminal Typing" />
-<br>
-<div style="margin-bottom: 12px; margin-top: 5px;">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-</div>
-<a href="https://github.com/AhmedYoussefJo/Smart-Traffic-EDA" style="color: #20BEFF; text-decoration: none;"><code>[ Execute_Repository ]</code></a>
+<!-- 🔹 Project 5 (Cyan Glow) -->
+<td width="50%" valign="top" style="background-color: #20BEFF; padding: 2px; border-radius: 10px;">
+  <table width="100%" height="100%" style="background-color: #0d1117; border-radius: 8px; border: none; padding: 20px;">
+    <tr>
+      <td>
+        <h3 style="color: #ffffff; margin-top: 0; display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Police%20Car%20Light.png" width="22" align="top" style="margin-right:8px;" /> Smart Traffic EDA</h3>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=20BEFF&width=400&lines=>_Correlating+Weather+&+Accidents...;>_Analyzing+Temporal+Patterns...;>_Calculating+Peak+Risks...;>_Status:+Insights+Deployed" alt="Terminal Typing" />
+        <br>
+        <div style="margin-bottom: 18px; margin-top: 8px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+        </div>
+        <a href="https://github.com/AhmedYoussefJo/Smart-Traffic-EDA" style="color: #20BEFF; text-decoration: none; font-family: monospace; background: #161b22; padding: 6px 12px; border-radius: 4px; border: 1px solid #20BEFF;">[ EXECUTE_SOURCE ]</a>
+      </td>
+    </tr>
+  </table>
 </td>
 
-<!-- Project 6 -->
-<td width="50%" valign="top" style="background-color: #090c10; border: 1px solid #1f2937; border-left: 4px solid #a450ff; border-radius: 8px; padding: 18px;">
-<h3 style="color: #ffffff; margin-top: 0;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Abacus.png" width="22" align="top" /> Stats Analysis</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=8b949e&width=400&lines=>_Computing+Central+Tendencies...;>_Calculating+Variance...;>_Plotting+Distributions...;>_Status:+Mathematical+Proofs+Done" alt="Terminal Typing" />
-<br>
-<div style="margin-bottom: 12px; margin-top: 5px;">
-<img src="https://img.shields.io/badge/Statistics-20BEFF?style=flat-square&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Math-20BEFF?style=flat-square&logoColor=white" />
-</div>
-<a href="https://github.com/AhmedYoussefJo/Descriptive-Statistical-Analysis" style="color: #a450ff; text-decoration: none;"><code>[ Execute_Repository ]</code></a>
+<!-- 🔹 Project 6 (Purple Glow) -->
+<td width="50%" valign="top" style="background-color: #a450ff; padding: 2px; border-radius: 10px;">
+  <table width="100%" height="100%" style="background-color: #0d1117; border-radius: 8px; border: none; padding: 20px;">
+    <tr>
+      <td>
+        <h3 style="color: #ffffff; margin-top: 0; display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Abacus.png" width="22" align="top" style="margin-right:8px;" /> Stats Analysis</h3>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=a450ff&width=400&lines=>_Computing+Central+Tendencies...;>_Calculating+Variance...;>_Plotting+Distributions...;>_Status:+Mathematical+Proofs+Done" alt="Terminal Typing" />
+        <br>
+        <div style="margin-bottom: 18px; margin-top: 8px;">
+        <img src="https://img.shields.io/badge/Statistics-20BEFF?style=flat-square&logo=googleanalytics&logoColor=white" />
+        <img src="https://img.shields.io/badge/Math-a450ff?style=flat-square&logoColor=white" />
+        </div>
+        <a href="https://github.com/AhmedYoussefJo/Descriptive-Statistical-Analysis" style="color: #a450ff; text-decoration: none; font-family: monospace; background: #161b22; padding: 6px 12px; border-radius: 4px; border: 1px solid #a450ff;">[ EXECUTE_SOURCE ]</a>
+      </td>
+    </tr>
+  </table>
 </td>
 </tr>
 </table>

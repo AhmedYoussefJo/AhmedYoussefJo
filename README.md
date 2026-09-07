@@ -37,38 +37,46 @@ Currently pursuing a **B.Tech in Information Technology (Software Track)** at De
 
 ---
 
-## Tech
+## ⚡ Tech Arsenal
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,java,cpp,js" />
-</p>
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" width="25%" valign="top">
+        <code><b>&gt;_ LANGUAGES</b></code><br><br>
+        <img src="https://skillicons.dev/icons?i=python,mysql,java,cpp,js,bash&perline=2" />
+      </td>
+      <td align="center" width="25%" valign="top">
+        <code><b>🤖 ML & AI</b></code><br><br>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+      </td>
+      <td align="center" width="25%" valign="top">
+        <code><b>📊 DATA & ANALYTICS</b></code><br><br>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+      </td>
+      <td align="center" width="25%" valign="top">
+        <code><b>☁️ CLOUD & MLOPS</b></code><br><br>
+        <img src="https://skillicons.dev/icons?i=azure,docker,git,github&perline=2" /><br><br>
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-4D77CF?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MLflow-MLOps-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-AI%20%26%20ML-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-</p>
+<br/>
 
-<details>
-<summary><b>More technologies</b></summary>
-
-<br>
-
-**Machine Learning:** Machine Learning · Deep Learning · NLP · Attention Models · Computer Vision · Transfer Learning · Feature Engineering
-
-**Data & Visualization:** EDA · Data Cleaning · Matplotlib · Seaborn · Plotly · Folium
-
-**Cloud & MLOps:** Azure AI · MLflow · Hugging Face
-
-**Data Collection:** Web Scraping · Beautiful Soup · REST APIs
-
-</details>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=20BEFF&icon_color=20BEFF" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=20BEFF" width="48%" alt="Top Languages" />
+</div>
 
 ---
 
-## Selected Work
+## 📂 Selected Work
 
 <table>
 <tr>
@@ -136,32 +144,10 @@ Analyzed temporal, location, weather, and traffic patterns associated with accid
 
 ---
 
-## Currently Building
+## 🏗️ Currently Building
 
 ```text
 → Machine Learning pipelines
 → Deep Learning applications
 → Computer Vision & NLP
 → MLOps workflows
-```
-
----
-
-## Beyond Data
-
-**Problem Solving · Algorithms · Competitive Programming**
-
-<a href="https://leetcode.com/u/ahmedjoo2003/">LeetCode</a> · <a href="https://codeforces.com/profile/Ahmed_jo2003">Codeforces</a> ·
-ECPC Contributor (2023) & (2026)
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-yousef-273050350/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.kaggle.com/ahmedyousef2003">Kaggle</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:ahmedyousefbakrygouda@gmail.com">Email</a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=&fontSize=0"/>

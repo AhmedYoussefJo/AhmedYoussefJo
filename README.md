@@ -1,24 +1,46 @@
 <div align="center">
 
-  <!-- Header Section with Animated Capsule -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:20BEFF,100:a450ff&section=header&text=Ahmed%20Yousef%20Bakry&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Analyst&descAlignY=70&descAlign=50"/>
-  </a>
+  <!-- Terminal Dashboard SVG Widget (كارد البداية الخاصة بك) -->
+  <img src="./about.svg" alt="Ahmed Yousef Terminal Profile" width="100%">
 
   <br/><br/>
 
-  <!-- Social & Contact Badges -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ahmed-yousef-273050350/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.kaggle.com/ahmedyousef2003"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-    <a href="mailto:ahmedyousefbakrygouda@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://leetcode.com/u/ahmedjoo2003/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  </p>
+ # Ahmed Yousef Bakry
 
-  <h3 align="center">Building data-driven solutions — from raw data and analysis to machine learning workflows.</h3>
-  <br/>
+### Machine Learning Engineer · Data Analyst
 
-  <!-- Complex HTML Terminal Dashboard for Tech Stack -->
+<p>
+  Building data-driven solutions — from raw data and analysis to machine learning workflows.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/ahmed-yousef-273050350/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.kaggle.com/ahmedyousef2003">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="mailto:ahmedyousefbakrygouda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=&fontSize=0&animation=fadeIn"/>
+
+## About
+
+Machine Learning Engineer with a foundation in **Python, statistics, data analysis, and the end-to-end ML lifecycle**.
+
+Currently pursuing a **B.Tech in Information Technology (Software Track)** at Delta Technological University, with hands-on experience in analytics projects, data collection, preprocessing, visualization, and machine learning training.
+
+`Python` · `SQL` · `Machine Learning` · `Data Analysis` · `Power BI`
+
+---
+
+## ⚡ Tech Arsenal
+
+<!-- Complex HTML Terminal Dashboard for Tech Stack -->
+<div align="center">
   <table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
     <!-- Terminal Header -->
     <tr style="background-color: #161b22;">
@@ -66,55 +88,66 @@
       </td>
     </tr>
   </table>
+</div>
 
-  <br/><br/>
+<br/>
 
-  <!-- Dynamic GitHub Analytics Dashboard -->
-  <table width="100%" style="border-collapse: collapse;">
+<!-- Dynamic GitHub Analytics Dashboard -->
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
-      <td width="50%" align="center" style="padding-right: 5px;">
+      <td width="50%" align="center" style="padding-right: 5px; border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d1117&title_color=20BEFF&text_color=c9d1d9&icon_color=a450ff&border_color=30363d&border_radius=10&count_private=true&include_all_commits=true" width="100%" alt="GitHub Activity" />
       </td>
-      <td width="50%" align="center" style="padding-left: 5px;">
+      <td width="50%" align="center" style="padding-left: 5px; border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0d1117&title_color=20BEFF&text_color=c9d1d9&border_color=30363d&border_radius=10&langs_count=6" width="100%" alt="Language Distribution" />
       </td>
     </tr>
   </table>
+</div>
 
-  <br/>
+<br/>
 
-  <!-- Dynamic Project Cards (Neon Dark Theme) -->
-  <h2 align="left" style="color: #20BEFF; border-bottom: 1px solid #30363d; padding-bottom: 8px;">🚀 Selected Engineering Work</h2>
-  
-  <table width="100%" style="border-collapse: collapse;">
+---
+
+## 🚀 Selected Engineering Work
+
+<!-- Dynamic Project Cards (Neon Dark Theme) -->
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
-      <td width="50%" align="center" style="padding: 10px 5px 10px 0;">
+      <td width="50%" align="center" style="padding: 10px 5px 10px 0; border: none;">
         <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Project 1">
         </a>
       </td>
-      <td width="50%" align="center" style="padding: 10px 0 10px 5px;">
+      <td width="50%" align="center" style="padding: 10px 0 10px 5px; border: none;">
         <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Project 2">
         </a>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center" style="padding: 10px 5px 10px 0;">
+      <td width="50%" align="center" style="padding: 10px 5px 10px 0; border: none;">
         <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_3">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_3&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Project 3">
         </a>
       </td>
-      <td width="50%" align="center" style="padding: 10px 0 10px 5px;">
+      <td width="50%" align="center" style="padding: 10px 0 10px 5px; border: none;">
         <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_4">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_4&bg_color=0d1117&title_color=20BEFF&text_color=8b949e&icon_color=a450ff&border_color=30363d&border_radius=10&show_owner=false" width="100%" alt="Project 4">
         </a>
       </td>
     </tr>
   </table>
-
-  <br/>
-
-  <!-- Footer Animated Wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:a450ff,100:20BEFF&section=footer&text=&fontSize=0"/>
 </div>
+
+---
+
+## 🏗️ Currently Building
+
+```text
+→ Machine Learning pipelines
+→ Deep Learning applications
+→ Computer Vision & NLP
+→ MLOps workflows

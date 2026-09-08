@@ -102,19 +102,35 @@ A **Machine Learning Engineer &amp; Data Analyst** turning complex datasets into
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" height="28" align="center" /> GitHub Activity &amp; Live Telemetry
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" height="28" align="center" /> Real-Time GitHub Activity &amp; Streak
 
+<!-- Dynamic Live Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AhmedYoussefJo?style=flat-square&amp;logo=github&amp;color=38bdf8&amp;labelColor=161b22&amp;label=Followers" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAhmedYoussefJo&amp;query=%24.following&amp;style=flat-square&amp;logo=github&amp;color=c084fc&amp;labelColor=161b22&amp;label=Following" alt="Following"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAhmedYoussefJo&amp;query=%24.public_repos&amp;style=flat-square&amp;logo=github&amp;color=34d399&amp;labelColor=161b22&amp;label=Public%20Repos" alt="Public Repos"/>
+</p>
+
+<br/>
+
+<!-- Real-time Dynamic Stats & Languages (Live on every visit) -->
 <div align="center">
-  <img src="assets/github-stats.svg" width="49%" alt="Activity Metrics" />
-  <img src="assets/github-languages.svg" width="49%" alt="Language Distribution" />
+  <a href="https://github.com/AhmedYoussefJo">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedYoussefJo&amp;show_icons=true&amp;theme=tokyonight&amp;border_radius=12&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=38bdf8&amp;icon_color=38bdf8&amp;text_color=a1a1a6" width="49%" alt="Ahmed's GitHub Stats" />
+  </a>
+  <a href="https://github.com/AhmedYoussefJo">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedYoussefJo&amp;layout=compact&amp;theme=tokyonight&amp;border_radius=12&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=38bdf8&amp;text_color=a1a1a6" width="49%" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
 
+<!-- Real-time Dynamic Streak Stats (Current Streak, Longest Streak & Contributions) -->
 <div align="center">
-  <img src="assets/github-streak.svg" width="49%" alt="Streak Telemetry" />
   <a href="https://github.com/AhmedYoussefJo">
-    <img src="https://streak-stats.demolab.com/?user=AhmedYoussefJo&amp;theme=tokyonight&amp;background=0d1117&amp;border=30363d&amp;stroke=38bdf8&amp;ring=38bdf8&amp;fire=f59e0b&amp;currStreakNum=f59e0b&amp;sideNums=34d399&amp;currStreakLabel=86868b&amp;sideLabels=86868b&amp;dates=86868b&amp;hide_border=false" width="49%" alt="Real-time GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=AhmedYoussefJo&amp;theme=tokyonight&amp;background=0d1117&amp;border=30363d&amp;stroke=38bdf8&amp;ring=38bdf8&amp;fire=f59e0b&amp;currStreakNum=f59e0b&amp;sideNums=34d399&amp;currStreakLabel=86868b&amp;sideLabels=86868b&amp;dates=86868b&amp;border_radius=12&amp;hide_border=false" width="100%" alt="GitHub Streak Stats" />
   </a>
 </div>
 

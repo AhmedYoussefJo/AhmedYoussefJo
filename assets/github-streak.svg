@@ -136,7 +136,7 @@
   <text x="180" y="102" text-anchor="end" class="value" id="val-longest-streak">5 Days</text>
   
   <text x="215" y="102" class="label">Total Pushes</text>
-  <text x="386" y="102" text-anchor="end" class="value" id="val-total-pushes">249+</text>
+  <text x="386" y="102" text-anchor="end" class="value" id="val-total-pushes">148+</text>
 
   <text x="24" y="136" class="label">Public Repos</text>
   <text x="180" y="136" text-anchor="end" class="value" id="val-repos">13</text>

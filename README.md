@@ -102,11 +102,20 @@ A **Machine Learning Engineer &amp; Data Analyst** turning complex datasets into
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" height="28" align="center" /> GitHub Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" height="28" align="center" /> GitHub Activity &amp; Live Telemetry
 
 <div align="center">
   <img src="assets/github-stats.svg" width="49%" alt="Activity Metrics" />
   <img src="assets/github-languages.svg" width="49%" alt="Language Distribution" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/github-streak.svg" width="49%" alt="Streak Telemetry" />
+  <a href="https://github.com/AhmedYoussefJo">
+    <img src="https://streak-stats.demolab.com/?user=AhmedYoussefJo&amp;theme=tokyonight&amp;background=0d1117&amp;border=30363d&amp;stroke=38bdf8&amp;ring=38bdf8&amp;fire=f59e0b&amp;currStreakNum=f59e0b&amp;sideNums=34d399&amp;currStreakLabel=86868b&amp;sideLabels=86868b&amp;dates=86868b&amp;hide_border=false" width="49%" alt="Real-time GitHub Streak" />
+  </a>
 </div>
 
 <br/>

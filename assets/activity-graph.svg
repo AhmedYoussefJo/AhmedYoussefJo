@@ -1,0 +1,296 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" fill="none" role="img" aria-labelledby="title-ag desc-ag">
+  <title id="title-ag">GitHub Activity Graph</title>
+  <desc id="desc-ag">Daily contribution activity graph and velocity curve for Ahmed Yousef.</desc>
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad-ag" x1="0" y1="0" x2="840" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10131e" stop-opacity="0.95"/>
+      <stop offset="50%" stop-color="#0a0c14" stop-opacity="0.98"/>
+      <stop offset="100%" stop-color="#06070b" stop-opacity="0.99"/>
+    </linearGradient>
+
+    <!-- Area Fill Under Curve -->
+    <linearGradient id="area-grad-ag" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.35"/>
+      <stop offset="70%" stop-color="#6d28d9" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.0"/>
+    </linearGradient>
+
+    <!-- Stroke Gradient for Curve -->
+    <linearGradient id="line-grad-ag" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+
+    <!-- Drop Shadow -->
+    <filter id="shadow-ag" x="-4%" y="-5%" width="108%" height="116%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.65"/>
+    </filter>
+    <filter id="point-glow-ag" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#fbbf24" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <style>
+    .grid-line { stroke: #ffffff; stroke-opacity: 0.06; stroke-dasharray: 3 4; stroke-width: 1; }
+    .axis-label { font: 500 11px ui-monospace, SFMono-Regular, monospace; fill: #6b7280; }
+    .title-text { font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #f3f4f6; }
+    .axis-title { font: 600 11px ui-monospace, monospace; fill: #8b5cf6; }
+    .point-tag { font: 700 10px ui-monospace, monospace; fill: #fed7aa; }
+    .stat-badge { font: 600 11px ui-monospace, monospace; fill: #34d399; }
+  </style>
+
+  <!-- Container Box with Rounded Corners -->
+  <rect x="2" y="2" width="836" height="296" rx="14" fill="url(#bg-grad-ag)" stroke="#30363d" stroke-width="1.2" filter="url(#shadow-ag)"/>
+
+  <!-- Header Section -->
+  <g transform="translate(24, 24)">
+    <text class="title-text" x="0" y="0">Contribution Velocity &amp; Activity Curve</text>
+    <rect x="660" y="-12" width="130" height="22" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+    <text class="stat-badge" x="725" y="3" text-anchor="middle">ACTIVE STREAK ⚡</text>
+  </g>
+
+  <!-- Y-Axis Title (Rotated) -->
+  <text class="axis-title" transform="translate(18, 150) rotate(-90)" text-anchor="middle">Contributions</text>
+
+  <!-- Horizontal Grid Lines & Y-Axis Labels -->
+  <!-- Max height = 150px (y=70 is 35, y=220 is 0) -->
+  <!-- 35 -->
+  <text class="axis-label" x="52" y="74" text-anchor="end">35</text>
+  <line class="grid-line" x1="62" y1="70" x2="800" y2="70"/>
+
+  <!-- 30 -->
+  <text class="axis-label" x="52" y="95" text-anchor="end">30</text>
+  <line class="grid-line" x1="62" y1="91" x2="800" y2="91"/>
+
+  <!-- 25 -->
+  <text class="axis-label" x="52" y="117" text-anchor="end">25</text>
+  <line class="grid-line" x1="62" y1="113" x2="800" y2="113"/>
+
+  <!-- 20 -->
+  <text class="axis-label" x="52" y="138" text-anchor="end">20</text>
+  <line class="grid-line" x1="62" y1="134" x2="800" y2="134"/>
+
+  <!-- 15 -->
+  <text class="axis-label" x="52" y="160" text-anchor="end">15</text>
+  <line class="grid-line" x1="62" y1="156" x2="800" y2="156"/>
+
+  <!-- 10 -->
+  <text class="axis-label" x="52" y="181" text-anchor="end">10</text>
+  <line class="grid-line" x1="62" y1="177" x2="800" y2="177"/>
+
+  <!-- 5 -->
+  <text class="axis-label" x="52" y="202" text-anchor="end">5</text>
+  <line class="grid-line" x1="62" y1="198" x2="800" y2="198"/>
+
+  <!-- 0 (Baseline) -->
+  <text class="axis-label" x="52" y="224" text-anchor="end">0</text>
+  <line x1="62" y1="220" x2="800" y2="220" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1"/>
+
+  <!-- Data Curve (31 Days) -->
+  <!--
+    Points mapped (x from 80 to 780, gap ~23.3px):
+    D11(80): 0 -> y=220
+    D12(103): 1 -> y=216
+    D13(127): 0 -> y=220
+    D14(150): 0 -> y=220
+    D15(173): 3 -> y=207
+    D16(197): 0 -> y=220
+    D17(220): 4 -> y=203
+    D18(243): 0 -> y=220
+    D19(267): 0 -> y=220
+    D20(290): 1 -> y=216
+    D21(313): 0 -> y=220
+    D22(337): 0 -> y=220
+    D23(360): 11 -> y=173
+    D24(383): 0 -> y=220
+    D25(407): 2 -> y=211
+    D26(430): 34 -> y=74
+    D27(453): 1 -> y=216
+    D28(477): 10 -> y=177
+    D29(500): 0 -> y=220
+    D30(523): 0 -> y=220
+    D31(547): 4 -> y=203
+    D1(570):  3 -> y=207
+    D2(593):  4 -> y=203
+    D3(617):  6 -> y=194
+    D4(640):  0 -> y=220
+    D5(663):  1 -> y=216
+    D6(687):  0 -> y=220
+    D7(710):  2 -> y=211
+    D8(733): 17 -> y=147
+    D9(757):  3 -> y=207
+    D10(780): 0 -> y=220
+  -->
+
+  <!-- Gradient Area Under Spline -->
+  <path d="M 80 220 
+           Q 91 220, 103 216 T 127 220 T 150 220 
+           Q 161 220, 173 207 T 197 220 
+           Q 208 220, 220 203 T 243 220 T 267 220 
+           Q 278 220, 290 216 T 313 220 T 337 220 
+           Q 348 220, 360 173 Q 371 173, 383 220 
+           Q 395 220, 407 211 Q 418 200, 430 74 Q 441 74, 453 216 
+           Q 465 216, 477 177 Q 488 177, 500 220 T 523 220 
+           Q 535 220, 547 203 Q 558 203, 570 207 Q 581 207, 593 203 
+           Q 605 203, 617 194 Q 628 194, 640 220 
+           Q 651 220, 663 216 T 687 220 
+           Q 698 220, 710 211 Q 721 190, 733 147 Q 745 147, 757 207 
+           Q 768 220, 780 220 
+           L 780 220 L 80 220 Z" fill="url(#area-grad-ag)"/>
+
+  <!-- Spline Curve Stroke -->
+  <path d="M 80 220 
+           Q 91 220, 103 216 T 127 220 T 150 220 
+           Q 161 220, 173 207 T 197 220 
+           Q 208 220, 220 203 T 243 220 T 267 220 
+           Q 278 220, 290 216 T 313 220 T 337 220 
+           Q 348 220, 360 173 Q 371 173, 383 220 
+           Q 395 220, 407 211 Q 418 200, 430 74 Q 441 74, 453 216 
+           Q 465 216, 477 177 Q 488 177, 500 220 T 523 220 
+           Q 535 220, 547 203 Q 558 203, 570 207 Q 581 207, 593 203 
+           Q 605 203, 617 194 Q 628 194, 640 220 
+           Q 651 220, 663 216 T 687 220 
+           Q 698 220, 710 211 Q 721 190, 733 147 Q 745 147, 757 207 
+           Q 768 220, 780 220" 
+        fill="none" stroke="url(#line-grad-ag)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Key Points & Value Badges -->
+  <!-- D11: 0 -->
+  <circle cx="80" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- D12: 1 -->
+  <circle cx="103" cy="216" r="3.5" fill="#a78bfa"/>
+
+  <!-- D13: 0 -->
+  <circle cx="127" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- D14: 0 -->
+  <circle cx="150" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- D15: 3 -->
+  <circle cx="173" cy="207" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+
+  <!-- D16: 0 -->
+  <circle cx="197" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- D17: 4 -->
+  <circle cx="220" cy="203" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="220" y="194" text-anchor="middle">4</text>
+
+  <!-- D18: 0 -->
+  <circle cx="243" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- D19: 0 -->
+  <circle cx="267" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- D20: 1 -->
+  <circle cx="290" cy="216" r="3.5" fill="#a78bfa"/>
+
+  <!-- D21: 0 -->
+  <circle cx="313" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- D22: 0 -->
+  <circle cx="337" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- D23: 11 -->
+  <circle cx="360" cy="173" r="4.5" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="360" y="162" text-anchor="middle">11</text>
+
+  <!-- D24: 0 -->
+  <circle cx="383" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- D25: 2 -->
+  <circle cx="407" cy="211" r="3.5" fill="#a78bfa"/>
+
+  <!-- D26: 34 (PEAK) -->
+  <circle cx="430" cy="74" r="5.5" fill="#fed7aa" stroke="#8b5cf6" stroke-width="2" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="430" y="60" text-anchor="middle" font-size="12" font-weight="800">34</text>
+
+  <!-- D27: 1 -->
+  <circle cx="453" cy="216" r="3.5" fill="#a78bfa"/>
+
+  <!-- D28: 10 -->
+  <circle cx="477" cy="177" r="4.5" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="477" y="166" text-anchor="middle">10</text>
+
+  <!-- D29: 0 -->
+  <circle cx="500" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- D30: 0 -->
+  <circle cx="523" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- D31: 4 -->
+  <circle cx="547" cy="203" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+
+  <!-- D1: 3 -->
+  <circle cx="570" cy="207" r="4" fill="#fed7aa"/>
+
+  <!-- D2: 4 -->
+  <circle cx="593" cy="203" r="4" fill="#fed7aa"/>
+
+  <!-- D3: 6 -->
+  <circle cx="617" cy="194" r="4.5" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="617" y="184" text-anchor="middle">6</text>
+
+  <!-- D4: 0 -->
+  <circle cx="640" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- D5: 1 -->
+  <circle cx="663" cy="216" r="3.5" fill="#a78bfa"/>
+
+  <!-- D6: 0 -->
+  <circle cx="687" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- D7: 2 -->
+  <circle cx="710" cy="211" r="3.5" fill="#a78bfa"/>
+
+  <!-- D8: 17 (PEAK 2) -->
+  <circle cx="733" cy="147" r="5" fill="#fed7aa" stroke="#8b5cf6" stroke-width="1.5" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="733" y="135" text-anchor="middle" font-size="11" font-weight="800">17</text>
+
+  <!-- D9: 3 -->
+  <circle cx="757" cy="207" r="4" fill="#fed7aa"/>
+
+  <!-- D10: 0 -->
+  <circle cx="780" cy="220" r="3.5" fill="#a78bfa"/>
+
+  <!-- X-Axis Labels (Day Numbers) -->
+  <g class="axis-label" transform="translate(0, 238)">
+    <text x="80" text-anchor="middle">11</text>
+    <text x="103" text-anchor="middle">12</text>
+    <text x="127" text-anchor="middle">13</text>
+    <text x="150" text-anchor="middle">14</text>
+    <text x="173" text-anchor="middle">15</text>
+    <text x="197" text-anchor="middle">16</text>
+    <text x="220" text-anchor="middle">17</text>
+    <text x="243" text-anchor="middle">18</text>
+    <text x="267" text-anchor="middle">19</text>
+    <text x="290" text-anchor="middle">20</text>
+    <text x="313" text-anchor="middle">21</text>
+    <text x="337" text-anchor="middle">22</text>
+    <text x="360" text-anchor="middle">23</text>
+    <text x="383" text-anchor="middle">24</text>
+    <text x="407" text-anchor="middle">25</text>
+    <text x="430" text-anchor="middle" fill="#f59e0b" font-weight="700">26</text>
+    <text x="453" text-anchor="middle">27</text>
+    <text x="477" text-anchor="middle">28</text>
+    <text x="500" text-anchor="middle">29</text>
+    <text x="523" text-anchor="middle">30</text>
+    <text x="547" text-anchor="middle">31</text>
+    <text x="570" text-anchor="middle">1</text>
+    <text x="593" text-anchor="middle">2</text>
+    <text x="617" text-anchor="middle">3</text>
+    <text x="640" text-anchor="middle">4</text>
+    <text x="663" text-anchor="middle">5</text>
+    <text x="687" text-anchor="middle">6</text>
+    <text x="710" text-anchor="middle">7</text>
+    <text x="733" text-anchor="middle" fill="#f59e0b" font-weight="700">8</text>
+    <text x="757" text-anchor="middle">9</text>
+    <text x="780" text-anchor="middle">10</text>
+  </g>
+
+  <!-- X-Axis Title -->
+  <text class="axis-title" x="430" y="272" text-anchor="middle">Days of Month</text>
+</svg>

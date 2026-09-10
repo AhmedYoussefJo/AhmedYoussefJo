@@ -127,11 +127,25 @@ A **Machine Learning Engineer &amp; Data Analyst** turning complex datasets into
 
 <br/>
 
-<!-- Real-time Dynamic Streak Stats (Current Streak, Longest Streak & Contributions) -->
+<!-- Real-time Dynamic Streak Telemetry (Zero Downtime Local SVG) -->
 <div align="center">
   <a href="https://github.com/AhmedYoussefJo">
-    <img src="https://streak-stats.demolab.com/?user=AhmedYoussefJo&amp;theme=tokyonight&amp;background=0d1117&amp;border=30363d&amp;stroke=38bdf8&amp;ring=38bdf8&amp;fire=f59e0b&amp;currStreakNum=f59e0b&amp;sideNums=34d399&amp;currStreakLabel=86868b&amp;sideLabels=86868b&amp;dates=86868b&amp;border_radius=12&amp;hide_border=false" width="100%" alt="GitHub Streak Stats" />
+    <img src="assets/github-streak.svg" width="100%" alt="GitHub Streak Stats" />
   </a>
+</div>
+
+<br/>
+
+<!-- Real-time Contribution Velocity & Activity Curve -->
+<div align="center">
+  <img src="assets/activity-graph.svg" width="100%" alt="Contribution Velocity & Activity Curve" />
+</div>
+
+<br/>
+
+<!-- GitHub Space Shooter Contribution Arcade Game -->
+<div align="center">
+  <img src="assets/space-shooter.gif" width="100%" alt="GitHub Space Shooter Contribution Game" />
 </div>
 
 <br/>

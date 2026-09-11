@@ -122,7 +122,7 @@
   <g transform="translate(24, 46)">
     <rect x="0" y="0" width="248" height="98" rx="10" fill="url(#pillar-card)" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1"/>
     <text class="metric-tag" x="18" y="24">⚡ AGGREGATED METRIC</text>
-    <text class="metric-num" x="18" y="58" id="val-total-contrib">148</text>
+    <text class="metric-num" x="18" y="58" id="val-total-contrib">142+</text>
     <text class="metric-sub" x="18" y="82">TOTAL CONTRIBUTIONS</text>
   </g>
 
@@ -131,7 +131,7 @@
     <rect x="0" y="0" width="248" height="98" rx="10" fill="url(#pillar-active)" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="1.2"/>
     <circle cx="218" cy="22" r="4" fill="#34d399"/>
     <text class="active-tag" x="208" y="25" text-anchor="end">LIVE CADENCE</text>
-    <text class="metric-fire" x="18" y="58" id="val-curr-streak">1 Days 🔥</text>
+    <text class="metric-fire" x="18" y="58" id="val-curr-streak">2 Days 🔥</text>
     <text class="metric-sub" x="18" y="82" fill="#fbbf24">CURRENT DAILY STREAK</text>
   </g>
 

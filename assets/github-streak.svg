@@ -131,7 +131,7 @@
     <rect x="0" y="0" width="248" height="98" rx="10" fill="url(#pillar-active)" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="1.2"/>
     <circle cx="218" cy="22" r="4" fill="#34d399"/>
     <text class="active-tag" x="208" y="25" text-anchor="end">LIVE CADENCE</text>
-    <text class="metric-fire" x="18" y="58" id="val-curr-streak">1 Days 🔥</text>
+    <text class="metric-fire" x="18" y="58" id="val-curr-streak">0 Days 🔥</text>
     <text class="metric-sub" x="18" y="82" fill="#fbbf24">CURRENT DAILY STREAK</text>
   </g>
 

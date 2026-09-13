@@ -465,11 +465,11 @@ def update_activity_graph_svg(contributions):
         fill="none" stroke="url(#line-grad-ag)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- Key Points & Value Badges -->
-{"\n".join(circles_xml)}
+{circles_joined}
 
   <!-- X-Axis Labels (Day Numbers) -->
   <g class="axis-label" transform="translate(0, 238)">
-{"\n".join(x_labels_xml)}
+{x_labels_joined}
   </g>
 
   <!-- X-Axis Title -->

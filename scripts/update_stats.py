@@ -394,6 +394,9 @@ def update_activity_graph_svg(contributions):
     has_recent = any(c > 0 for c in counts[-3:])
     badge_text = "ACTIVE STREAK ⚡" if has_recent else "ACTIVITY CURVE ⚡"
 
+    circles_joined = "\n".join(circles_xml)
+    x_labels_joined = "\n".join(x_labels_xml)
+
     svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" fill="none" role="img" aria-labelledby="title-ag desc-ag">
   <title id="title-ag">GitHub Activity Graph</title>
   <desc id="desc-ag">Daily contribution activity graph and velocity curve for Ahmed Yousef.</desc>

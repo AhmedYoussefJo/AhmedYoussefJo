@@ -76,10 +76,10 @@
   <line x1="62" y1="220" x2="800" y2="220" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1"/>
 
   <!-- Gradient Area Under Spline -->
-  <path d="M 80.00 220.00 L 80.00 220.00 C 83.50 220.00, 96.33 220.00, 103.33 220.00 C 110.33 220.00, 119.67 220.00, 126.67 220.00 C 133.67 220.00, 143.00 220.00, 150.00 220.00 C 157.00 220.00, 166.33 220.00, 173.33 220.00 C 180.33 220.00, 189.67 220.00, 196.67 220.00 C 203.67 217.75, 213.00 211.75, 220.00 205.00 C 227.00 198.25, 236.33 172.75, 243.33 175.00 C 250.33 177.25, 259.67 220.00, 266.67 220.00 C 273.67 208.75, 283.00 101.12, 290.00 100.00 C 297.00 98.88, 306.33 194.50, 313.33 212.50 C 320.33 220.00, 329.67 218.88, 336.67 220.00 C 343.67 220.00, 353.00 220.00, 360.00 220.00 C 367.00 220.00, 376.33 220.00, 383.33 220.00 C 390.33 220.00, 399.67 220.00, 406.67 220.00 C 413.67 220.00, 423.00 220.00, 430.00 220.00 C 437.00 220.00, 446.33 220.00, 453.33 220.00 C 460.33 220.00, 469.67 220.00, 476.67 220.00 C 483.67 220.00, 493.00 220.00, 500.00 220.00 C 507.00 220.00, 516.33 220.00, 523.33 220.00 C 530.33 220.00, 539.67 220.00, 546.67 220.00 C 553.67 220.00, 563.00 220.00, 570.00 220.00 C 577.00 200.88, 586.33 99.25, 593.33 92.50 C 600.33 85.75, 609.67 155.88, 616.67 175.00 C 623.67 194.12, 633.00 214.38, 640.00 220.00 C 647.00 220.00, 656.33 212.50, 663.33 212.50 C 670.33 212.50, 679.67 218.88, 686.67 220.00 C 693.67 220.00, 703.00 220.00, 710.00 220.00 C 717.00 216.62, 726.33 198.62, 733.33 197.50 C 740.33 196.38, 749.67 209.12, 756.67 212.50 C 763.67 215.88, 776.50 218.88, 780.00 220.00 L 780.00 220.00 Z" fill="url(#area-grad-ag)"/>
+  <path d="M 80.00 220.00 L 80.00 220.00 C 83.50 220.00, 96.33 220.00, 103.33 220.00 C 110.33 220.00, 119.67 220.00, 126.67 220.00 C 133.67 220.00, 143.00 220.00, 150.00 220.00 C 157.00 220.00, 166.33 220.00, 173.33 220.00 C 180.33 217.75, 189.67 211.75, 196.67 205.00 C 203.67 198.25, 213.00 172.75, 220.00 175.00 C 227.00 177.25, 236.33 220.00, 243.33 220.00 C 250.33 208.75, 259.67 101.12, 266.67 100.00 C 273.67 98.88, 283.00 194.50, 290.00 212.50 C 297.00 220.00, 306.33 218.88, 313.33 220.00 C 320.33 220.00, 329.67 220.00, 336.67 220.00 C 343.67 220.00, 353.00 220.00, 360.00 220.00 C 367.00 220.00, 376.33 220.00, 383.33 220.00 C 390.33 220.00, 399.67 220.00, 406.67 220.00 C 413.67 220.00, 423.00 220.00, 430.00 220.00 C 437.00 220.00, 446.33 220.00, 453.33 220.00 C 460.33 220.00, 469.67 220.00, 476.67 220.00 C 483.67 220.00, 493.00 220.00, 500.00 220.00 C 507.00 220.00, 516.33 220.00, 523.33 220.00 C 530.33 220.00, 539.67 220.00, 546.67 220.00 C 553.67 200.88, 563.00 99.25, 570.00 92.50 C 577.00 85.75, 586.33 155.88, 593.33 175.00 C 600.33 194.12, 609.67 214.38, 616.67 220.00 C 623.67 220.00, 633.00 212.50, 640.00 212.50 C 647.00 212.50, 656.33 218.88, 663.33 220.00 C 670.33 220.00, 679.67 220.00, 686.67 220.00 C 693.67 216.62, 703.00 198.62, 710.00 197.50 C 717.00 196.38, 726.33 209.12, 733.33 212.50 C 740.33 215.88, 749.67 218.88, 756.67 220.00 C 763.67 220.00, 776.50 220.00, 780.00 220.00 L 780.00 220.00 Z" fill="url(#area-grad-ag)"/>
 
   <!-- Spline Curve Stroke -->
-  <path d="M 80.00 220.00 C 83.50 220.00, 96.33 220.00, 103.33 220.00 C 110.33 220.00, 119.67 220.00, 126.67 220.00 C 133.67 220.00, 143.00 220.00, 150.00 220.00 C 157.00 220.00, 166.33 220.00, 173.33 220.00 C 180.33 220.00, 189.67 220.00, 196.67 220.00 C 203.67 217.75, 213.00 211.75, 220.00 205.00 C 227.00 198.25, 236.33 172.75, 243.33 175.00 C 250.33 177.25, 259.67 220.00, 266.67 220.00 C 273.67 208.75, 283.00 101.12, 290.00 100.00 C 297.00 98.88, 306.33 194.50, 313.33 212.50 C 320.33 220.00, 329.67 218.88, 336.67 220.00 C 343.67 220.00, 353.00 220.00, 360.00 220.00 C 367.00 220.00, 376.33 220.00, 383.33 220.00 C 390.33 220.00, 399.67 220.00, 406.67 220.00 C 413.67 220.00, 423.00 220.00, 430.00 220.00 C 437.00 220.00, 446.33 220.00, 453.33 220.00 C 460.33 220.00, 469.67 220.00, 476.67 220.00 C 483.67 220.00, 493.00 220.00, 500.00 220.00 C 507.00 220.00, 516.33 220.00, 523.33 220.00 C 530.33 220.00, 539.67 220.00, 546.67 220.00 C 553.67 220.00, 563.00 220.00, 570.00 220.00 C 577.00 200.88, 586.33 99.25, 593.33 92.50 C 600.33 85.75, 609.67 155.88, 616.67 175.00 C 623.67 194.12, 633.00 214.38, 640.00 220.00 C 647.00 220.00, 656.33 212.50, 663.33 212.50 C 670.33 212.50, 679.67 218.88, 686.67 220.00 C 693.67 220.00, 703.00 220.00, 710.00 220.00 C 717.00 216.62, 726.33 198.62, 733.33 197.50 C 740.33 196.38, 749.67 209.12, 756.67 212.50 C 763.67 215.88, 776.50 218.88, 780.00 220.00" 
+  <path d="M 80.00 220.00 C 83.50 220.00, 96.33 220.00, 103.33 220.00 C 110.33 220.00, 119.67 220.00, 126.67 220.00 C 133.67 220.00, 143.00 220.00, 150.00 220.00 C 157.00 220.00, 166.33 220.00, 173.33 220.00 C 180.33 217.75, 189.67 211.75, 196.67 205.00 C 203.67 198.25, 213.00 172.75, 220.00 175.00 C 227.00 177.25, 236.33 220.00, 243.33 220.00 C 250.33 208.75, 259.67 101.12, 266.67 100.00 C 273.67 98.88, 283.00 194.50, 290.00 212.50 C 297.00 220.00, 306.33 218.88, 313.33 220.00 C 320.33 220.00, 329.67 220.00, 336.67 220.00 C 343.67 220.00, 353.00 220.00, 360.00 220.00 C 367.00 220.00, 376.33 220.00, 383.33 220.00 C 390.33 220.00, 399.67 220.00, 406.67 220.00 C 413.67 220.00, 423.00 220.00, 430.00 220.00 C 437.00 220.00, 446.33 220.00, 453.33 220.00 C 460.33 220.00, 469.67 220.00, 476.67 220.00 C 483.67 220.00, 493.00 220.00, 500.00 220.00 C 507.00 220.00, 516.33 220.00, 523.33 220.00 C 530.33 220.00, 539.67 220.00, 546.67 220.00 C 553.67 200.88, 563.00 99.25, 570.00 92.50 C 577.00 85.75, 586.33 155.88, 593.33 175.00 C 600.33 194.12, 609.67 214.38, 616.67 220.00 C 623.67 220.00, 633.00 212.50, 640.00 212.50 C 647.00 212.50, 656.33 218.88, 663.33 220.00 C 670.33 220.00, 679.67 220.00, 686.67 220.00 C 693.67 216.62, 703.00 198.62, 710.00 197.50 C 717.00 196.38, 726.33 209.12, 733.33 212.50 C 740.33 215.88, 749.67 218.88, 756.67 220.00 C 763.67 220.00, 776.50 220.00, 780.00 220.00" 
         fill="none" stroke="url(#line-grad-ag)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- Key Points & Value Badges -->
@@ -88,16 +88,16 @@
   <circle cx="126.67" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
   <circle cx="150.00" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
   <circle cx="173.33" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
-  <circle cx="196.67" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
-  <circle cx="220.00" cy="205.00" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
-  <text class="point-tag" x="220.00" y="196.00" text-anchor="middle">2</text>
-  <circle cx="243.33" cy="175.00" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
-  <text class="point-tag" x="243.33" y="166.00" text-anchor="middle">6</text>
-  <circle cx="266.67" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
-  <circle cx="290.00" cy="100.00" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
-  <text class="point-tag" x="290.00" y="91.00" text-anchor="middle">16</text>
-  <circle cx="313.33" cy="212.50" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
-  <text class="point-tag" x="313.33" y="203.50" text-anchor="middle">1</text>
+  <circle cx="196.67" cy="205.00" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="196.67" y="196.00" text-anchor="middle">2</text>
+  <circle cx="220.00" cy="175.00" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="220.00" y="166.00" text-anchor="middle">6</text>
+  <circle cx="243.33" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
+  <circle cx="266.67" cy="100.00" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="266.67" y="91.00" text-anchor="middle">16</text>
+  <circle cx="290.00" cy="212.50" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="290.00" y="203.50" text-anchor="middle">1</text>
+  <circle cx="313.33" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
   <circle cx="336.67" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
   <circle cx="360.00" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
   <circle cx="383.33" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
@@ -108,56 +108,56 @@
   <circle cx="500.00" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
   <circle cx="523.33" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
   <circle cx="546.67" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
-  <circle cx="570.00" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
   <!-- Peak (17) -->
-  <circle cx="593.33" cy="92.50" r="5.5" fill="#fed7aa" stroke="#8b5cf6" stroke-width="2" filter="url(#point-glow-ag)"/>
-  <text class="point-tag" x="593.33" y="80.50" text-anchor="middle" font-size="12" font-weight="800">17</text>
-  <circle cx="616.67" cy="175.00" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
-  <text class="point-tag" x="616.67" y="166.00" text-anchor="middle">6</text>
-  <circle cx="640.00" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
-  <circle cx="663.33" cy="212.50" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
-  <text class="point-tag" x="663.33" y="203.50" text-anchor="middle">1</text>
+  <circle cx="570.00" cy="92.50" r="5.5" fill="#fed7aa" stroke="#8b5cf6" stroke-width="2" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="570.00" y="80.50" text-anchor="middle" font-size="12" font-weight="800">17</text>
+  <circle cx="593.33" cy="175.00" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="593.33" y="166.00" text-anchor="middle">6</text>
+  <circle cx="616.67" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
+  <circle cx="640.00" cy="212.50" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="640.00" y="203.50" text-anchor="middle">1</text>
+  <circle cx="663.33" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
   <circle cx="686.67" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
-  <circle cx="710.00" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
-  <circle cx="733.33" cy="197.50" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
-  <text class="point-tag" x="733.33" y="188.50" text-anchor="middle">3</text>
-  <circle cx="756.67" cy="212.50" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
-  <text class="point-tag" x="756.67" y="203.50" text-anchor="middle">1</text>
+  <circle cx="710.00" cy="197.50" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="710.00" y="188.50" text-anchor="middle">3</text>
+  <circle cx="733.33" cy="212.50" r="4" fill="#fed7aa" filter="url(#point-glow-ag)"/>
+  <text class="point-tag" x="733.33" y="203.50" text-anchor="middle">1</text>
+  <circle cx="756.67" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
   <circle cx="780.00" cy="220.00" r="3.5" fill="#a78bfa" opacity="0.6"/>
 
   <!-- X-Axis Labels (Day Numbers) -->
   <g class="axis-label" transform="translate(0, 238)">
-    <text x="80.00" text-anchor="middle">16</text>
-    <text x="103.33" text-anchor="middle">17</text>
-    <text x="126.67" text-anchor="middle">18</text>
-    <text x="150.00" text-anchor="middle">19</text>
-    <text x="173.33" text-anchor="middle">20</text>
-    <text x="196.67" text-anchor="middle">21</text>
-    <text x="220.00" text-anchor="middle">22</text>
-    <text x="243.33" text-anchor="middle">23</text>
-    <text x="266.67" text-anchor="middle">24</text>
-    <text x="290.00" text-anchor="middle">25</text>
-    <text x="313.33" text-anchor="middle">26</text>
-    <text x="336.67" text-anchor="middle">27</text>
-    <text x="360.00" text-anchor="middle">28</text>
-    <text x="383.33" text-anchor="middle">29</text>
-    <text x="406.67" text-anchor="middle">30</text>
-    <text x="430.00" text-anchor="middle">31</text>
-    <text x="453.33" text-anchor="middle">1</text>
-    <text x="476.67" text-anchor="middle">2</text>
-    <text x="500.00" text-anchor="middle">3</text>
-    <text x="523.33" text-anchor="middle">4</text>
-    <text x="546.67" text-anchor="middle">5</text>
-    <text x="570.00" text-anchor="middle">6</text>
-    <text x="593.33" text-anchor="middle">7</text>
-    <text x="616.67" text-anchor="middle">8</text>
-    <text x="640.00" text-anchor="middle">9</text>
-    <text x="663.33" text-anchor="middle">10</text>
-    <text x="686.67" text-anchor="middle">11</text>
-    <text x="710.00" text-anchor="middle">12</text>
-    <text x="733.33" text-anchor="middle">13</text>
-    <text x="756.67" text-anchor="middle">14</text>
-    <text x="780.00" text-anchor="middle" fill="#f59e0b" font-weight="700">15</text>
+    <text x="80.00" text-anchor="middle">17</text>
+    <text x="103.33" text-anchor="middle">18</text>
+    <text x="126.67" text-anchor="middle">19</text>
+    <text x="150.00" text-anchor="middle">20</text>
+    <text x="173.33" text-anchor="middle">21</text>
+    <text x="196.67" text-anchor="middle">22</text>
+    <text x="220.00" text-anchor="middle">23</text>
+    <text x="243.33" text-anchor="middle">24</text>
+    <text x="266.67" text-anchor="middle">25</text>
+    <text x="290.00" text-anchor="middle">26</text>
+    <text x="313.33" text-anchor="middle">27</text>
+    <text x="336.67" text-anchor="middle">28</text>
+    <text x="360.00" text-anchor="middle">29</text>
+    <text x="383.33" text-anchor="middle">30</text>
+    <text x="406.67" text-anchor="middle">31</text>
+    <text x="430.00" text-anchor="middle">1</text>
+    <text x="453.33" text-anchor="middle">2</text>
+    <text x="476.67" text-anchor="middle">3</text>
+    <text x="500.00" text-anchor="middle">4</text>
+    <text x="523.33" text-anchor="middle">5</text>
+    <text x="546.67" text-anchor="middle">6</text>
+    <text x="570.00" text-anchor="middle">7</text>
+    <text x="593.33" text-anchor="middle">8</text>
+    <text x="616.67" text-anchor="middle">9</text>
+    <text x="640.00" text-anchor="middle">10</text>
+    <text x="663.33" text-anchor="middle">11</text>
+    <text x="686.67" text-anchor="middle">12</text>
+    <text x="710.00" text-anchor="middle">13</text>
+    <text x="733.33" text-anchor="middle">14</text>
+    <text x="756.67" text-anchor="middle">15</text>
+    <text x="780.00" text-anchor="middle" fill="#f59e0b" font-weight="700">16</text>
   </g>
 
   <!-- X-Axis Title -->
